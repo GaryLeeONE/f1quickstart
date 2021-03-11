@@ -70,8 +70,8 @@ The **Driver's World Champion** is whoever scores the most points over the seaso
 * The grid positions may be changed after qualifying. If a driver or team violated the sporting regulations, such as blocking other drivers on the track, changing a car part that they're not allowed to change, etc., they may be penalized in the form of dropping places on the starting grid. Similarly, drivers can get penalized during the race if they caused a collision, cut corners, forced other drivers off track, etc. The penalties include adding a few seconds to your race time, forcing you to drive through the pitlane (which has a speed limit), or even disqualification.
 * All drivers have to do one mandatory pitstop during the race. F1 bans refueling during the race, so pitstops are pretty much only used to change tyres or front wings (if the wing is broken). A typical F1 pitstop nowadays takes only 2.5 seconds. Anything more than 3 to 4 seconds is pretty bad. The best pit crews are sometimes able to do sub 2-second pitstops.
 * When incidents happen during the race, say there's been a crash and there's debris on track or a broken barrier, Race Control will deploy the Safety Car which all cars must follow and bunch up behind. No overtakes are allowed and all cars drive at a much lower speed than normal race speeds, then the track workers (called "marshals") can have a safe gap to clean up the mess. This year's Safety Car duties will be shared between two absolutely stunning vehicles: the Mercedes AMG GT R, and (perhaps your favorite) the Aston Martin DBX.  
-  <img src="./pics/safetycar1.jpg" alt="Mercedes AMG GT R Safety Car" style="zoom: 20%;" />  
-  <img src=".\pics\safetycar2.jpg" alt="Aston Martin DBX" style="zoom:20%;" />
+  <img src="./pics/safetycar1.jpg" alt="Mercedes AMG GT R Safety Car" style="zoom: 20%; max-width:50%;" />  
+  <img src=".\pics\safetycar2.jpg" alt="Aston Martin DBX" style="zoom: 20%; max-width:50%;" />
 
 ## The Teams
 
@@ -125,7 +125,7 @@ The guy's so incredibly talented that he went from karting to a full-time F1 dri
 
 ## The Cars
 
-<img src=".\pics\car_diagram.jpeg" alt="F1 Car" style="zoom:50%;" />
+<img src=".\pics\car_diagram.jpeg" alt="F1 Car" style="zoom:50%; max-width:50%;" />
 
 Formula 1 cars are insanely complex and powerful machines. A couple of quick facts:
 
