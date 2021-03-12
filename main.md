@@ -2,7 +2,9 @@
 
 This guide includes some of the most important knowledge and concepts that I think is necessary for a new fan to understand what's going on and enjoy the sport. I also added some personal twists and extra stuff that I think is interesting to read. This is because from a sporting sense, F1 is by no means very complex: it's just driving cars, fast! Dramatic crashes and overtakes! The sport itself should be relatively easy to pick up. However, as you can imagine, from a technical standpoint F1 cars are engineering marvels. The cars are incredibly technically advanced and literally cost hundreds of millions of dollars to develop and produce.
 
-If you just wanted to experience the sport and the spectacle, you only need to read Chapters 1 to 3. If you want to learn about some of the details, that will be Chapters 4 to 6. I also recommend your to check out I mentioned in Chapter 7.
+If you just wanted to experience the sport and the spectacle, you only need to read Chapters 1 to 3. If you want to learn about some of the details, that will be Chapters 4 to 6. Finally, Chapter 7 is basically how I search for F1 related content. Recommend you to take a peek at that as well.
+
+I'm not a huge history guy, so I didn't include anything related to the early history of F1. Everything here pretty much dates back only to when I started following F1, which is around 2016. You'll quickly learn the big names and famous stories if you decide to start following.
 
 Hope you enjoy!
 
@@ -68,12 +70,20 @@ The **Driver's World Champion** is whoever scores the most points over the seaso
 
 * Pole position, race win, and podium finish (top-3) are all very noteworthy achievements in a driver's F1 career.
 * The grid positions may be changed after qualifying. If a driver or team violated the sporting regulations, such as blocking other drivers on the track, changing a car part that they're not allowed to change, etc., they may be penalized in the form of dropping places on the starting grid. Similarly, drivers can get penalized during the race if they caused a collision, cut corners, forced other drivers off track, etc. The penalties include adding a few seconds to your race time, forcing you to drive through the pitlane (which has a speed limit), or even disqualification.
-* All drivers have to do one mandatory pitstop during the race. F1 bans refueling during the race, so pitstops are pretty much only used to change tyres or front wings (if the wing is broken). A typical F1 pitstop nowadays takes only 2.5 seconds. Anything more than 3 to 4 seconds is pretty bad. The best pit crews are sometimes able to do sub 2-second pitstops.
-* When incidents happen during the race, say there's been a crash and there's debris on track or a broken barrier, Race Control will deploy the Safety Car which all cars must follow and bunch up behind. No overtakes are allowed and all cars drive at a much lower speed than normal race speeds, then the track workers (called "marshals") can have a safe gap to clean up the mess. This year's Safety Car duties will be shared between two absolutely stunning vehicles: the Mercedes AMG GT R, and (perhaps your favorite) the Aston Martin DBX.  
-  <img src="./pics/safetycar1.jpg" alt="Mercedes AMG GT R Safety Car" style="zoom: 20%; max-width:50%;" />  
-  <img src=".\pics\safetycar2.jpg" alt="Aston Martin DBX" style="zoom: 20%; max-width:50%;" />
+* All drivers have to do one mandatory pitstop during the race. F1 bans refueling during the race, so pitstops are pretty much only used to change tyres or front wings (if the wing is broken). A typical F1 pitstop nowadays takes only 2.5 seconds. Anything more than 3 to 4 seconds is pretty bad. The best pit crews are sometimes able to do sub-2 second pitstops.
+* When incidents happen during the race, say there's been a crash and there's debris on track or a broken barrier, the FIA will deploy the Safety Car which all cars must follow and bunch up behind. No overtakes are allowed and all cars drive at a much lower speed than normal race speeds, then the track workers (called "marshals") can have a safe gap to clean up the mess. This year's Safety Car duties will be shared between two absolutely stunning vehicles: the Mercedes AMG GT R, and (perhaps your favorite) the Aston Martin Vantage.  
+  <img src="./pics/safetycar1.jpg" alt="Mercedes AMG GT R Safety Car" style="zoom: 20%; width:50%;" />  
+  <img src=".\pics\safetycar2.jpg" alt="Aston Martin DBX" style="zoom: 20%; width:50%;" />
 
 ## The Teams
+
+### The Big Ones
+
+#### Mercedes
+
+![Mercedes-AMG F1 W12 E Performance](./pics/mercedes.jpg){ zoom: 20%; width: 50%;}
+
+Drivers: Lewis Hamilton (#44, black T-cam), Valtteri Bottas (#77, yellow T-cam)
 
 ## The Drivers
 
@@ -125,7 +135,7 @@ The guy's so incredibly talented that he went from karting to a full-time F1 dri
 
 ## The Cars
 
-<img src=".\pics\car_diagram.jpeg" alt="F1 Car" style="zoom:50%; max-width:50%;" />
+<img src=".\pics\car_diagram.jpeg" alt="F1 Car" style="zoom:50%; width:50%;" />
 
 Formula 1 cars are insanely complex and powerful machines. A couple of quick facts:
 
@@ -138,9 +148,9 @@ Alright, moving on to the different parts of the car.
 
 The current F1 power units are 1.6-liter V6 hybrid turbocharged engines. These engines are capable of outputting 900hp, plus an additional 160hp generated by electrical components. The engines idle at around 6000 rpm and reaches a top of 15000 rpm.
 
-The mechanical part of the power unit includes the internal combustion engine (ICE), turbocharger (TC). The electrical part includes an energy recovery system (ERS) to harvest energy via two motor generator units called MGU-K and MGU-H, where K stands for kinetic energy and H for heat. The electrical energy is stored in an energy storage (ES), basically a battery, and deployed when the driver needs an extra boost. The control electronics (CE) are also considered part of the power unit.
+The mechanical part of the power unit includes the internal combustion engine (ICE) and the turbocharger (TC). The electrical part includes an energy recovery system (ERS) to harvest energy via two motor generator units called MGU-K and MGU-H, where K stands for kinetic energy and H for heat. The harvested electrical energy is stored in an energy storage (ES), basically the battery, and deployed when the driver needs an extra boost. The control electronics (CE) are also considered part of the power unit.
 
-The power unit is the single most expensive part on the car, costing over $10 million to produce (not development costs!).
+The power unit is the single most expensive part on the car, costing over $10 million to produce (not development costs!). Due to the significance of power units to the performance of the car, this era (2014-present) where these power units are used is called the "turbo hybrid era".
 
 Not all teams develop their own PU. There are only 4 engine manufacturers. Teams that develop their own engines are called "works teams". Other teams that buy the power units and use them are "customer teams". The engine manufacturers and their customers are:
 
@@ -199,4 +209,5 @@ I believe undercuts are generally much more common, mainly because old tyres are
 - The official [F1 YouTube Channel](https://www.youtube.com/user/Formula1) is awesome. You got the multi-million dollar production quality, and also the interesting content and ideas like a really good fan-made channel.
 - A British YouTuber [Chain Bear](https://www.youtube.com/user/chainbearf1) has great videos explaining how everything works in F1, including the technical stuff, race strategy, etc. Love it.
 - The Netflix show [Drive to Survive](https://www.netflix.com/title/80204890) has attracted a large number of new fans from the US recently. It's really well made, in fact the only reason I subscribe to Netflix for 1 month every year. There's quite a lot of drama, although also some forced and manufactured drama. It covers many more interesting characters and stories in the paddock than what I can include in this guide. All in all a very good show. Season 3 premieres on March 19.
+- Some pretty reliable websites and media outlets: [Autosport.com](https://www.autosport.com/), [The Race](https://the-race.com/), [RaceFans.net](https://www.racefans.net/), [Motorsport.com](https://www.motorsport.com/), to name a few.
 
