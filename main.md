@@ -1,8 +1,8 @@
 # A Quick Start Guide of Formula One (2021 Season)
 
-This guide includes some of the most important knowledge and concepts that I think is necessary for a new fan to understand what's going on and enjoy the sport. I also added some personal twists and extra stuff that I think is interesting to read. This is because from a sporting sense, F1 is by no means very complex: it's just driving cars, fast! Dramatic crashes and overtakes! The sport itself should be relatively easy to pick up. However, as you can imagine, from a technical standpoint F1 cars are engineering marvels. The cars are incredibly technically advanced and literally cost hundreds of millions of dollars to develop and produce.
+This guide includes some of the most important knowledge and concepts that I think is necessary for a new fan to understand what's going on and enjoy the sport. I also added some personal twists and extra stuff that I think is interesting to read. This is because from a sporting sense, F1 is by no means very complex: it's just driving cars, fast! Dramatic crashes and overtakes! The sport itself should be relatively easy to pick up. However, as you can imagine, from a technical standpoint F1 cars are engineering marvels. Each team hires hundreds of the best aerodynamicists, material scientists and engineers in the world, then spends hundreds of millions of dollars developing and producing each year's cars.
 
-If you just wanted to experience the sport and the spectacle, you only need to read Chapters 1 to 3. If you want to learn about some of the details, that will be Chapters 4 to 6. Finally, Chapter 7 is basically how I search for F1 related content. Recommend you to take a peek at that as well.
+If you just wanted to experience the sport and the spectacle, you only need to read Chapters 1 to 3. If you want to learn about some of the details, that will be Chapters 4 to 7. Finally, Chapter 8 is basically how I search for F1 related content. Recommend you to take a peek at that as well.
 
 I'm not a huge history guy, so I didn't include anything related to the early history of F1. Everything here pretty much dates back only to when I started following F1, which is around 2016. You'll quickly learn the big names and famous stories if you decide to start following.
 
@@ -16,15 +16,18 @@ Hope you enjoy!
 4. [**The Cars**](#the-cars)
 5. [**The Tracks**](#the-tracks)
 6. [**A Few More Technical Concepts**](#more-technical-concepts)
-7. [**More F1-related Content**](#more-f1-related-content)
+7. [**News in the Paddock**](#news-in-the-paddock)
+8. [**More F1-related Content**](#more-f1-related-content)
 
 ## Championship and Event Format
 
-The **FIA Formula One World Championship** runs annually from around mid-March to late-November or early-December. F1 is considered the pinnacle of motorsport
+The **FIA Formula One World Championship** runs annually from around mid-March to late-November or early-December. F1 is considered the pinnacle of motorsport and as a sport, its popularity around the world is only behind the Olympic Games and the World Cup.
+
+F1 is sanctioned by the [Fédération Internationale de l'Automobile](https://en.wikipedia.org/wiki/Fédération_Internationale_de_l'Automobile) (FIA), based in Paris, France.
 
 The typical schedule for recent years consists of 21~23 race events, called "Grand Prix". The Grands Prix usually run every two weeks, but there are some back-to-back race weeks, as well as a month-long summer break in August. These event happen across the world in 20+ countries in Europe, the Americas, Asia and Oceania.
 
-Currently 10 teams participate in the Championship, each team with 2 drivers.
+Currently 10 teams participate in the Championship, each team with 2 drivers. Teams are also called *constructors* because they design and construct their own cars each year.
 
 Every Grand Prix happens from Friday to Sunday of the race week. The sessions are:
 
@@ -77,19 +80,57 @@ The **Driver's World Champion** is whoever scores the most points over the seaso
 
 ## The Teams
 
-### The Big Ones
+The 10 teams are, of course, where all the stories revolve around. There are the famous ones with a long history such as Ferrari and McLaren, and newcomers (relatively speaking) like Red Bull and Haas. Here is a quick rundown of all the teams.
+
+### The Big Three
 
 #### Mercedes
 
 ![Mercedes-AMG F1 W12 E Performance](./pics/mercedes.jpg){ zoom: 20%; width: 50%;}
 
-Drivers: Lewis Hamilton (#44, black T-cam), Valtteri Bottas (#77, yellow T-cam)
+Drivers for 2021: [Lewis Hamilton (#44)](#lewis-hamilton-44), [Valtteri Bottas (#77)](#valtteri-bottas-77)
+
+2020 Constructor's Standing: 1st
+
+The all-conquering, dominant Mercedes team has been the team to beat for the past few years. They are double World Champions (Constructor and Driver) 7 seasons in a row (2014-2020), and are still favorites coming into the 2021 season. They have a superb team that developed the best power units and fastest cars of this era. They have Lewis Hamilton, one of the best drivers in F1 history, to drive for them. It's *almost* like they are unbeatable, since they hardly make any mistakes during the race. However, in the past couple of seasons, a trend seems to be developing that when they actually do make mistakes, they make huge ones, which produced several truly thrilling and memorable races (['19 German GP](https://www.youtube.com/watch?v=RYHQmBULhLc), ['20 Italian GP](https://www.youtube.com/watch?v=TB5yhZdF8SI), ['20 Sakhir GP](https://www.youtube.com/watch?v=H0zwR2drgV4)). As their lovable German team principal Toto Wolff would say, "[a colossal fuck-up](https://www.youtube.com/watch?v=CmffVyNMS6w)".
+
+#### Ferrari
+
+![Scuderia Ferrari SF21](./pics/ferrari.jpg){ zoom: 20%; width: 50%;}
+
+Drivers for 2021: [Charles Leclerc (#16)](#charles-leclerc-16), [Carlos Sainz Jr. (#55)](#carlos-sainz-jr-55)
+
+2020 Constructor's Standing: 6th
+
+Ah, the famous red car. Ferrari is the team with the longest history in F1, and also the most success. It's often said that other teams such as Mercedes participate in F1 to help advertise and sell their road cars, but Ferrari sells road cars to fund their participation in F1. Such is their dedication to the sport over the many decades. However, for the past dozen years they have not had Championship success. They won their last Driver's and Constructor's Champion all the way back in 2007. They were usually able to stay Top-3 in the Constructor's standings, and were even able to challenge Mercedes from 2017 to 2019, but a series of driver errors and strategic mistakes during the race sank their championship hopes. 2020 Season wasn't kind to them as their car performance dropped significantly, because their power unit used in previous years seemed to have broken the regulations and they were caught. It's difficult to see them return to Top-3 in 2021, but their fans (called the "Tifosi") are still extremely passionate as always.
+
+#### Red Bull Racing
+
+![Red Bull Racing RB16B](./pics/rbr.jpg){ zoom: 20%; width: 50%;}
+
+Drivers for 2021: [Max Verstappen (#33)](#max-verstappen-33), [Sergio Perez (#11)](#sergio-perez-11)
+
+2020 Constructor's Standing: 2nd
+
+My favorite team in F1. They are the fun-loving cool guys and mavericks of the F1 grid. Funded by a "fizzy drinks" company, not a lot of people thought they would succeed when they joined F1 in 2005, but they did. They hired the right guys to design and produce competitive cars, developed many talented young drivers, and winning 4 consecutive double World Champions from 2010 to 2013. Like Ferrari, they were able to stay competitive They were unable to challenge Mercedes recently, mostly because of weaker power units, which is not their fault because they did not develop the PUs (more on that [later](#power-unit)). Even with a weaker car, they are able to grab race wins from Mercedes or Ferrari because of their excellent execution during the race.
+
+### The Midfield
+
+#### McLaren
+
+![McLaren MCL35M](./pics/mclaren.jpg){ zoom: 20%; width: 50%;}
+
+Drivers for 2021: [Daniel Ricciardo (#3)](#daniel-ricciardo-3), [Lando Norris (#4)](#lando-norris-4)
+
+2020 Constructor's Standings: 3rd
+
+McLaren is also one of the more historical teams in F1. 
+
+
 
 ## The Drivers
 
-### Significant Figures
-
-#### Lewis Hamilton (#44)
+### Lewis Hamilton (#44)
 
 Nationality: British  
 
@@ -101,7 +142,7 @@ Very much the GOAT no matter how you look at it. He's already got the most pole 
 
 Tidbits about Hamilton: He's currently the only Black driver on the grid. His personality is a little...... weird, sometimes makes controversial comments off the track.
 
-#### Valtteri Bottas (#77)
+### Valtteri Bottas (#77)
 
 Nationality: Finnish  
 
@@ -113,7 +154,7 @@ A very decent driver that gets the job done. Not good enough nor consistent enou
 
 Tidbits about Bottas: Mercedes say they let their drivers fairly race each other without favoring Hamilton (which I believe they do), but fans often joke that he's the "wingman" to Hamilton which makes Bottas very pissed. But if you're just not quick enough, what else can you do?
 
-#### Max Verstappen (#33)
+### Max Verstappen (#33)
 
 Nationality: Dutch 
 
@@ -148,18 +189,18 @@ Alright, moving on to the different parts of the car.
 
 The current F1 power units are 1.6-liter V6 hybrid turbocharged engines. These engines are capable of outputting 900hp, plus an additional 160hp generated by electrical components. The engines idle at around 6000 rpm and reaches a top of 15000 rpm.
 
-The mechanical part of the power unit includes the internal combustion engine (ICE) and the turbocharger (TC). The electrical part includes an energy recovery system (ERS) to harvest energy via two motor generator units called MGU-K and MGU-H, where K stands for kinetic energy and H for heat. The harvested electrical energy is stored in an energy storage (ES), basically the battery, and deployed when the driver needs an extra boost. The control electronics (CE) are also considered part of the power unit.
+The mechanical part of the power unit includes the internal combustion engine and the turbocharger. The electrical part includes an energy recovery system to harvest energy from. The harvested electrical energy is stored in an energy storage (ES), basically the battery, and deployed when the driver needs an extra boost. The control electronics (CE) are also considered part of the power unit.
 
-The power unit is the single most expensive part on the car, costing over $10 million to produce (not development costs!). Due to the significance of power units to the performance of the car, this era (2014-present) where these power units are used is called the "turbo hybrid era".
+The power unit is the single most expensive part on the car, costing over $10 million to produce (not development costs!). Due to the significance of power units to the performance of the car, this era (2014-present) where these power units are used is called the **"turbo hybrid era"**. Mercedes dominated this era by having the best power unit on the grid.
 
-Not all teams develop their own PU. There are only 4 engine manufacturers. Teams that develop their own engines are called "works teams". Other teams that buy the power units and use them are "customer teams". The engine manufacturers and their customers are:
+Not all teams develop their own PU. There are only 4 engine manufacturers. Teams that develop their own engines are called "works teams". Other teams that buy the power units and use them are "customer teams". Currently, the engine manufacturers and their customers are:
 
 * Mercedes --- Works team: Mercedes; Customer teams: Aston Martin, McLaren, Williams.
 * Ferrari --- Works team: Ferrari; Customer teams: Haas, Alfa Romeo.
 * Renault --- Works team: Alpine; No customer team.
 * Honda --- Developed externally by Honda R&D; Customer teams: Red Bull, AlphaTauri.
 
-A relatively recent news: Honda will quit F1 after the 2021 season. Red Bull has acquired their engine business to form Red Bull Powertrain, so they can technically be considered as a works team.
+A general ranking of engine performances: Mercedes > Ferrari = Renault > Honda. Mercedes engine has always been really good. Ferrari engine regressed compared to a few years ago. Renault and Honda engines has shown improvement and I think their performances are not too far away from Ferrari.
 
 ### Tyres
 
@@ -202,6 +243,14 @@ You can set up the wing angles to be steeper to increase downforce at the front 
   Basically the reverse of undercut. You're stuck behind your rival and couldn't overtake him. You decide to pit **later** than your rival. Your rival does his pitstop but couldn't get the new tyres to work immediately, but you managed to squeeze out the final bits of performance on your used set of tyres, so when you eventually complete your pitstop, the lap time differences allowed you to get ahead of your rival without an on-track overtake.
 
 I believe undercuts are generally much more common, mainly because old tyres are generally supposed to be slower than new tyres, but there are lots of factors that affect tyre performance so it's not always the case.
+
+## News in the Paddock
+
+Just a bit of recent news to let you know what everyone in the paddock is talking about:
+
+- Arguably the biggest news: F1 will introduce a big overhaul of technical regulations for next season (2022). The cars will look [quite different](https://www.formula1.com/en/latest/article.fia-announce-new-f1-regulations-to-be-delayed-until-2022.1lwtaLmpNcQd0z9SnMEyK8.html). This is mainly to let the teams close up and improve the quality of racing.
+- In the 2021 Season, F1 will trial what's called "sprint qualifying" for three GPs this year. Basically, they want to try out a 1/3 race (100km) to replace traditional [elimination qualifying](#qualifying).
+- Honda will quit F1 after the 2021 season. Red Bull has acquired their engine business to form Red Bull Powertrain, so they can technically be considered as a works team.
 
 ## More F1-related Content
 
