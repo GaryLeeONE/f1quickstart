@@ -209,7 +209,7 @@ They never even once finished in the top-10 during a race in 2020, ending the se
 
 <img src="./pics/hamilton.jpg" width="30%" height="30%">
 
-Nationality: <img alt="Australia" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png" />British 
+Nationality: <img alt="Australia" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png" height="10%"/>British 
 
 Age: 36  
 
@@ -245,7 +245,7 @@ Tidbit about Verstappen: He was promoted from Toro Rosso (i.e. the current Alpha
 
 ### Daniel Ricciardo (#3)
 
-Nationality: <img alt="Australia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_(converted).svg/23px-Flag_of_Australia_(converted).svg.png"/> Australia
+Nationality: <img alt="Australia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_(converted).svg/23px-Flag_of_Australia_(converted).svg.png" /> Australia
 
 ## The Cars
 
