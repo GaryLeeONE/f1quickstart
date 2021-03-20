@@ -207,6 +207,8 @@ They never even once finished in the top-10 during a race in 2020, ending the se
 
 I feel like one good thing about F1 is that there are not that many people in the paddock that we need to memorize. Additionally, only about 10 drivers are really the main characters, so it's quite easy to develop a strong attachment with every one of them. Here I'll introduce these main characters. For the other ones that are not in the spotlight or that I simply don't know much about, I condensed all of them into one section at the end.
 
+Note: the number behind each driver's name is their car number.
+
 ### Lewis Hamilton (#44)
 
 <img src="./pics/hamilton.jpg" width="30%" height="30%">
@@ -309,7 +311,7 @@ Age: 31
 
 Drives for: Red Bull Racing
 
-Perez is a very underrated driver in F1. He is known for his great consistency and ability to take care of the tyres. He has been in midfield teams for the entirety of his 10-year F1 career, but was able to score 10 podiums and 1 miraculous race win (['20 Sakhir GP](https://www.youtube.com/watch?v=H0zwR2drgV4)), which tells you how good he is. After being dropped by his former team Racing Point (the current Aston Martin) when they signed Sebastian Vettel, he was at risk of losing an F1 drive before Red Bull signed him to partner Verstappen for 2021. Fans are all really happy for him since this is an opportunity he thoroughly deserves.
+Sergio "Checo" Perez is a very underrated driver. He is known for his great consistency and ability to take care of the tyres. He has been in midfield teams for the entirety of his 10-year F1 career, but was able to score 10 podiums and 1 miraculous race win (['20 Sakhir GP](https://www.youtube.com/watch?v=H0zwR2drgV4)), which tells you how good he is. After being dropped by his former team Racing Point (the current Aston Martin) when they signed Sebastian Vettel, he was at risk of losing an F1 drive before Red Bull signed him to partner Verstappen for 2021. Fans are all really happy for him since this is an opportunity he thoroughly deserves.
 
 ### Kimi Raikkonen (#7)
 
@@ -323,15 +325,51 @@ Drives for: Alfa Romeo
 
 Kimi is currently the oldest driver in F1 and also the most experienced. Nicknamed "the Iceman", he's even more of the reserved, emotionless Finnish character than his fellow countryman Bottas. He is a living walking meme and a legend, simply because he just loves to drive... and [get drunk](https://www.youtube.com/watch?v=gXFxnVeAOVU)... and [enjoy himself](https://www.youtube.com/watch?v=ZMzeluIxblY). All the social media, interviews and PR stuff don't interest him [even the tiniest bit](https://www.youtube.com/watch?v=QjdYTzlfms0). Driving in F1 is [more like a hobby for him](https://www.youtube.com/watch?v=cvQ1J3gCPOg).
 
-Wait wait wait enough with the memes... What adds even more to his legend is that this guy is actually the 2007 Ferrari World Champion that I mentioned [earlier](#ferrari), so he was really good in his prime.
+Wait wait wait enough with the memes... What adds even more to his legend status is that Kimi is actually the 2007 Ferrari World Champion that I mentioned [earlier](#ferrari), so he was really good in his prime.
 
 ### Lando Norris (#4)
 
+<img src="./pics/norris.jpeg" width="40%" height="40%">
+
+Nationality: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png"/> British 
+
+Age: 21
+
+Drives for: McLaren
+
+Young Lando Norris is another rising talent in the sport. Entering his 3rd year in F1, he's had some pretty decent results with McLaren, highlighted by a sensational podium finish at the ['20 Austrian GP](https://www.youtube.com/watch?v=XgXo0509S28). He's really quick but his consistency can still be improved.
+
+He is immensely popular especially among our generation because he's an avid gamer and streamer on Twitch. He's also a famous shitposter and memelord on Reddit and other social media :) What a driver pairing it is between him and Ricciardo at McLaren!
+
 ### George Russell (#63)
 
-### Everyone Else
+<img src="./pics/russell.jpg" width="40%" height="40%">
 
-### How to Distinguish Drivers
+Nationality: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png"/> British 
+
+Age: 23
+
+Drives for: Williams
+
+Russell is an important character because he is the top prospect in the Mercedes driver development program and is considered to have World-Champion-level talent.  He will very likely take Lewis Hamilton's seat when Hamilton decides to eventually retire or switch teams. Currently driving for backmarker team Williams, results are obviously hard to come by. However, at the ['20 Sakhir GP](https://www.youtube.com/watch?v=eglCFzxWg6U) he substituted for COVID-positive Hamilton  at Mercedes and drove an absolutely flawless race, but was robbed of a sensational victory because of Mercedes' rare strategic blunder. He is a very lovable and funny character, often streaming on Twitch with Norris and Leclerc.
+
+### Others
+
+| Name and Car Number     | Picture                                               | Nationality                                                  | Team    | Description                                                  |
+| ----------------------- | :---------------------------------------------------- | ------------------------------------------------------------ | ------- | ------------------------------------------------------------ |
+| Carlos Sainz, Jr. (#55) | <img src="./pics/sainz.jpg" width="25%" height="25%"> | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png" /> Spanish | Ferrari | Ferrari's new driver for 2021. Partnered with Lando Norris at McLaren for 2 seasons with similar results. |
+|                         |                                                       |                                                              |         |                                                              |
+|                         |                                                       |                                                              |         |                                                              |
+|                         |                                                       |                                                              |         |                                                              |
+|                         |                                                       |                                                              |         |                                                              |
+|                         |                                                       |                                                              |         |                                                              |
+|                         |                                                       |                                                              |         |                                                              |
+|                         |                                                       |                                                              |         |                                                              |
+|                         |                                                       |                                                              |         |                                                              |
+
+
+
+### How to Distinguish Drivers in the Same Team
 
 ## The Cars
 
