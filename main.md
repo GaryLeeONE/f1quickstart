@@ -355,17 +355,17 @@ Russell is an important character because he is the top prospect in the Mercedes
 
 ### Others
 
-| Name and Car Number     | Picture                                               | Nationality                                                  | Team    | Description                                                  |
-| ----------------------- | :---------------------------------------------------- | ------------------------------------------------------------ | ------- | ------------------------------------------------------------ |
-| Carlos Sainz, Jr. (#55) | <img src="./pics/sainz.jpg" width="25%" height="25%"> | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png" /> Spanish | Ferrari | Ferrari's new driver for 2021. Partnered with Lando Norris at McLaren for 2 seasons with similar results. |
-|                         |                                                       |                                                              |         |                                                              |
-|                         |                                                       |                                                              |         |                                                              |
-|                         |                                                       |                                                              |         |                                                              |
-|                         |                                                       |                                                              |         |                                                              |
-|                         |                                                       |                                                              |         |                                                              |
-|                         |                                                       |                                                              |         |                                                              |
-|                         |                                                       |                                                              |         |                                                              |
-|                         |                                                       |                                                              |         |                                                              |
+| Name and Car Number                                          | Nationality                                                  | Team    | Description                                                  |
+| :----------------------------------------------------------- | ------------------------------------------------------------ | ------- | ------------------------------------------------------------ |
+| <img src="./pics/sainz.jpg" width="25%">Carlos Sainz, Jr. (#55) | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png" /> Spanish | Ferrari | Ferrari's new driver for 2021. Partnered with Lando Norris at McLaren for 2 seasons with similar results. |
+|                                                              |                                                              |         |                                                              |
+|                                                              |                                                              |         |                                                              |
+|                                                              |                                                              |         |                                                              |
+|                                                              |                                                              |         |                                                              |
+|                                                              |                                                              |         |                                                              |
+|                                                              |                                                              |         |                                                              |
+|                                                              |                                                              |         |                                                              |
+|                                                              |                                                              |         |                                                              |
 
 
 
