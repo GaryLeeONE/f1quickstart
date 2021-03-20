@@ -207,29 +207,31 @@ They never even once finished in the top-10 during a race in 2020, ending the se
 
 ### Lewis Hamilton (#44)
 
+<img src="./pics/hamilton.jpg" width="30%" height="30%">
 
-
-Nationality: British  
+Nationality: <img alt="Australia" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png" />British 
 
 Age: 36  
 
 Drives for: Mercedes
 
-Very much the GOAT no matter how you look at it. He's already got the most pole positions (98) and race wins (95) in F1 history. He's tied with Michael Schumacher for the most Driver Championships (7) and very likely to break this record in 2021. His one-lap (quali) ability is unrivaled, sometimes seemingly able to "outdrive" what the car is capable of. He hardly makes any mistakes in the race and is literally the god in wet conditions.  
-
-He's currently the only Black driver on the F1 grid.
+Very much the GOAT no matter how you look at it. He's already got the most pole positions (98) and race wins (95) in F1 history. He's tied with Michael Schumacher for the most Driver Championships (7) and very likely to break this record in 2021. His one-lap (quali) ability is unrivaled, sometimes seemingly able to "outdrive" what the car is capable of. He hardly makes any mistakes in the race and is literally the god in wet conditions. He's currently the only Black driver on the F1 grid.
 
 ### Valtteri Bottas (#77)
 
-Nationality: Finnish  
+<img src="./pics/bottas.jpeg" width="40%" height="40%">
+
+Nationality: Finnish 
 
 Age: 31  
 
 Drives for: Mercedes  
 
-A man of few words or emotions, and a very decent driver that gets the job done. Not good enough nor consistent enough to challenge his GOAT teammate for the whole year. Can maybe pick up a few pole positions and race wins every season because of the dominant Mercedes car.  
+A typical Finnish character, he's a man of few words or emotions. Also a very decent driver that gets the job done, although not good enough nor consistent enough to challenge his GOAT teammate Hamilton for the whole year. Can pick up a few pole positions and race wins every season because of the dominant Mercedes car.
 
 ### Max Verstappen (#33)
+
+<img src="./pics/verstappen.jpeg" width="40%" height="40%">
 
 Nationality: Dutch 
 
@@ -237,21 +239,17 @@ Age: 23
 
 Drives for: Red Bull Racing
 
-My favorite driver on the grid. Extremely fierce and talented. Widely considered to be the only driver that could challenge Hamilton in equal machinery. At such a young age he already has 10 race wins under his belt, all while driving only the 2nd or 3rd best car.
+My favorite driver on the grid. Extremely fierce and talented. Widely considered to be the only driver that could challenge Hamilton if in equal machinery. At such a young age he already has 10 race wins under his belt, all while driving only the 2nd or 3rd best car. He used to be quite impetuous and had a lot of incidents before 2018 but these few years saw him become a much more mature driver, but no less quick and exciting.
 
-The guy's so incredibly talented that he went from karting to a full-time F1 drive in a little bit more than a year, which is absolutely ridiculous. He used to be quite impetuous and had a lot of incidents before 2018 but these few years saw him become a much more mature driver, but no less exciting.
+Tidbit about Verstappen: He was promoted from Toro Rosso (i.e. the current AlphaTauri) to Red Bull midway in 2016 and immediately went on to win his first race ([2016 Spanish GP](https://www.youtube.com/watch?v=hohuswdeznA)) with Red Bull, becoming the youngest driver ever to win a F1 GP. Truly remarkable.
 
-> His dad, Jos Verstappen, also drove in F1 and was briefly teammates with Michael Schumacher.
->
-> He was promoted from Toro Rosso (i.e. the current AlphaTauri) to Red Bull midway in 2016 and immediately went on to win his first race ([2016 Spanish GP](https://www.youtube.com/watch?v=hohuswdeznA)) with Red Bull. Truly remarkable.
->
-> He may have the craziest fan base of any driver. You can see huge groups of his fans wearing the Dutch orange color in every single race. He even has dedicated grandstands in some GPs.
->
-> Some of his race highlights that I still watch over and over again: ['16 Brazil](https://www.youtube.com/watch?v=JO3q69x2sXA), ['19 Austria](https://www.youtube.com/watch?v=Q3L7WzpAsjY), ['19 Brazil](https://www.youtube.com/watch?v=3WZeoOkMf0Y).
+### Daniel Ricciardo (#3)
+
+Nationality: <img alt="Australia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_(converted).svg/23px-Flag_of_Australia_(converted).svg.png"/> Australia
 
 ## The Cars
 
-<img src=".\pics\car_diagram.jpeg" alt="F1 Car" style="zoom:50%; width:50%;" />
+<img src=".\pics\car_diagram.jpeg" alt="F1 Car"  width="60%"/>
 
 Formula 1 cars are insanely complex and powerful machines. A couple of quick facts:
 
