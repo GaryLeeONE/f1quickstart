@@ -193,7 +193,7 @@ Looking at this huge Russian flag livery you really wouldn't believe me that Haa
 
 #### Williams
 
-![Williams FW43B](./pics/williams.jpg){ :zoom="20%" height="50%" width="50%"}
+<img src="./pics/williams.jpg" width="50%" height="50%">
 
 Drivers for 2021: [George Russell (#63)](#george-russell-63), Nicholas Latifi (#6)
 
