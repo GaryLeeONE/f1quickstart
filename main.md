@@ -78,8 +78,8 @@ The **Driver's World Champion** is whoever scores the most points over the seaso
 * The grid positions may be changed after qualifying. If a driver or team violated the sporting regulations, such as blocking other drivers on the track, changing a car part that they're not allowed to change, etc., they may be penalized in the form of dropping places on the starting grid. Similarly, drivers can get penalized during the race if they caused a collision, cut corners, forced other drivers off track, etc. The penalties include adding a few seconds to your race time, forcing you to drive through the pitlane (which has a speed limit), or even disqualification.
 * All drivers have to do one mandatory pitstop during the race. F1 bans refueling during the race, so pitstops are pretty much only used to change tyres or front wings (if the wing is broken). A typical F1 pitstop nowadays takes only 2.5 seconds. Anything more than 3 to 4 seconds is pretty bad. The best pit crews are sometimes able to do sub-2 second pitstops.
 * When incidents happen during the race, say there's been a crash and there's debris on track or a broken barrier, the FIA will deploy the Safety Car which all cars must follow and bunch up behind. No overtakes are allowed and all cars drive at a much lower speed than normal race speeds, then the track workers (called "marshals") can have a safe gap to clean up the mess. This year's Safety Car duties will be shared between two absolutely stunning vehicles: the Mercedes AMG GT R, and (perhaps your favorite) the Aston Martin Vantage.  
-  <img src="./pics/safetycar1.jpg" alt="Mercedes AMG GT R Safety Car" style="zoom: 20%; width:50%;" />  
-  <img src=".\pics\safetycar2.jpg" alt="Aston Martin DBX" style="zoom: 20%; width:50%;" />
+  <img src="./pics/safetycar1.jpg" alt="Mercedes AMG GT R Safety Car" width="40%" height="40%"/>
+  <img src=".\pics\safetycar2.jpg" alt="Aston Martin DBX"  width="40%" height="40%"/>
 
 ## The Teams
 
@@ -89,7 +89,7 @@ The 10 teams are, of course, where all the stories revolve around. There are the
 
 #### Mercedes
 
-![Mercedes-AMG F1 W12 E Performance](./pics/mercedes.jpg){ zoom: 20%; width: 50%;}
+<img src="./pics/mercedes.jpg" width="50%" height="50%">
 
 Drivers for 2021: [Lewis Hamilton (#44)](#lewis-hamilton-44), [Valtteri Bottas (#77)](#valtteri-bottas-77)
 
@@ -101,7 +101,7 @@ Because of their dominance (and maybe also their black livery) they are often se
 
 #### Ferrari
 
-![Scuderia Ferrari SF21](./pics/ferrari.jpg){ zoom: 20%; width: 50%;}
+<img src="./pics/ferrari.jpg" width="50%" height="50%">
 
 Drivers for 2021: [Charles Leclerc (#16)](#charles-leclerc-16), Carlos Sainz Jr. (#55)
 
@@ -113,7 +113,7 @@ The famous red car. Ferrari is the team with the longest history in F1, and also
 
 #### Red Bull Racing
 
-![Red Bull Racing RB16B](./pics/rbr.jpg){ zoom: 20%; width: 50%;}
+<img src="./pics/rbr.jpg" width="50%" height="50%">
 
 Drivers for 2021: [Max Verstappen (#33)](#max-verstappen-33), [Sergio Perez (#11)](#sergio-perez-11)
 
@@ -125,7 +125,7 @@ My favorite team in F1. They are the fun-loving cool guys and mavericks of the F
 
 #### McLaren
 
-![McLaren MCL35M](./pics/mclaren.jpg){ zoom: 20%; width: 50%;}
+<img src="./pics/mclaren.jpg" width="50%" height="50%">
 
 Drivers for 2021: [Daniel Ricciardo (#3)](#daniel-ricciardo-3), [Lando Norris (#4)](#lando-norris-4)
 
@@ -135,7 +135,7 @@ McLaren is also one of the more historical teams in F1. Senna, Lewis Hamilton an
 
 #### Aston Martin
 
-![Aston Martin AMR21](./pics/amr.jpeg){ zoom: 20%; width: 50%;}
+<img src="./pics/amr.jpeg" width="50%" height="50%">
 
 Drivers for 2021: [Sebastian Vettel (#5)](#sebastian-vettel-5), Lance Stroll (#18)
 
@@ -147,7 +147,7 @@ They have mostly been a decent midfield team, occasionally able to pick up a few
 
 #### Alpine
 
-![Alpine A521](./pics/alpine.jpg){ zoom: 20%; width: 50%;}
+<img src="./pics/alpine.jpg" width="50%" height="50%">
 
 Drivers for 2021: [Fernando Alonso (#14)](#fernando-alonso-14), Esteban Ocon (#31)
 
@@ -161,7 +161,7 @@ The one thing I'm really looking forward about Alpine is Guanyu Zhou, a young Ch
 
 #### AlphaTauri
 
-![AlphaTauri AT02](./pics/alphatauri.jpg){ zoom: 20%; width: 50%;}
+<img src="./pics/alphatauri.jpg" width="50%" height="50%">
 
 Drivers for 2021: [Pierre Gasly (#10)](#pierre-gasly-10), Yuki Tsunoda (#22)
 
@@ -173,7 +173,7 @@ AlphaTauri is also owned by the Red Bull group. It is previously called Toro Ros
 
 #### Alfa Romeo
 
-![Alfa Romeo C41](./pics/alfa.jpg){ zoom: 20%; width: 50%;}
+<img src="./pics/alfa.jpg" width="50%" height="50%">
 
 Drivers for 2021: [Kimi Raikkonen (#7)](#kimi-raikkonen-7), Antonio Giovinazzi (#99)
 
@@ -183,7 +183,7 @@ Alfa Romeo is not the biggest name in F1 and they've not had any championships i
 
 #### Haas
 
-![Haas VF-21](./pics/haas.jpg){ zoom: 20%; width: 50%;}
+<img src="./pics/haas.jpg" width="50%" height="50%">
 
 Drivers for 2021: Mick Schumacher (#47), Nikita Mazepin (#9)
 
