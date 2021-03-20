@@ -2,11 +2,15 @@
 
 This guide includes some of the most important knowledge and concepts that I think is necessary for a new fan to understand what's going on and enjoy the sport. I also added some personal twists and extra stuff that I think is interesting to read. This is because from a sporting sense, F1 is by no means very complex: it's just driving cars, fast! Dramatic crashes and overtakes! The sport itself should be relatively easy to pick up. However, as you can imagine, from a technical standpoint F1 cars are engineering marvels. Each team hires hundreds of the best aerodynamicists, material scientists and engineers in the world, then spends hundreds of millions of dollars developing and producing each year's cars.
 
-If you just wanted to experience the sport and the spectacle, you only need to read Chapters 1 to 3. If you want to learn about some of the details, that will be Chapters 4 to 7. Finally, Chapter 8 is basically how I search for F1 related content. Recommend you to take a peek at that as well.
+If you just wanted to experience the sport and the spectacle, you only need to read Chapters 1 to 3. If you want to learn about some of the details, that will be Chapters 4 to 6. Finally, Chapter 7 is basically how I search for F1 related content. Recommend you to take a peek at that as well.
 
 I'm not a huge history guy, so I didn't include anything related to the early history of F1. Everything here pretty much dates back only to when I started following F1, which is around 2016. You'll quickly learn the big names and famous stories if you decide to start following.
 
 Hope you enjoy!
+
+## The Best Way to Enjoy F1
+
+People often joke to me like motorsports are just cars running in circles. I mean yes that's true, but that really only scratched the surface. Everyone drives road cars, but motorsports is a whole different beast because it's about driving to the limit. Pinning the throttle as early as possible, braking as late as possible, fighting with another driver wheel-to-wheel even if he's running you out of road - all something you apparently can't do in a road car. It is this sensation of driving on the edge of losing control that's very addictive. That's why I think the best way to enjoy F1 or any other motorsport, is to put yourself in the drivers' shoes, imagine you're the one driving at literally breakneck speeds and fighting with other drivers. Release your inner speed demon. This has brought me immense exhilaration and enjoyment over the past few years and I hope you can experience it too.
 
 ## Contents
 
@@ -14,14 +18,13 @@ Hope you enjoy!
 3. [**The Teams**](#the-teams)
 4. [**The Drivers**](#the-drivers)
 4. [**The Cars**](#the-cars)
-5. [**The Tracks**](#the-tracks)
 6. [**A Few More Technical Concepts**](#more-technical-concepts)
 7. [**News in the Paddock**](#news-in-the-paddock)
 8. [**More F1-related Content**](#more-f1-related-content)
 
 ## Championship and Event Format
 
-The **FIA Formula One World Championship** runs annually from around mid-March to late-November or early-December. F1 is considered the pinnacle of motorsport and as a sport, its popularity around the world is only behind the Olympic Games and the World Cup.
+The **FIA Formula One World Championship** runs annually from around mid-March to late-November or early-December. F1 is considered the pinnacle of motorsport and its popularity around the world ranks only behind the Olympic Games and the World Cup.
 
 F1 is sanctioned by the [Fédération Internationale de l'Automobile](https://en.wikipedia.org/wiki/Fédération_Internationale_de_l'Automobile) (FIA), based in Paris, France.
 
@@ -92,17 +95,21 @@ Drivers for 2021: [Lewis Hamilton (#44)](#lewis-hamilton-44), [Valtteri Bottas (
 
 2020 Constructor's Standing: 1st
 
-The all-conquering, dominant Mercedes team has been the team to beat for the past few years. They are double World Champions (Constructor and Driver) 7 seasons in a row (2014-2020), and are still favorites coming into the 2021 season. They have a superb team that developed the best power units and fastest cars of this era. They have Lewis Hamilton, one of the best drivers in F1 history, to drive for them. It's *almost* like they are unbeatable, since they hardly make any mistakes during the race. However, in the past couple of seasons, a trend seems to be developing that when they actually do make mistakes, they make huge ones, which produced several truly thrilling and memorable races (['19 German GP](https://www.youtube.com/watch?v=RYHQmBULhLc), ['20 Italian GP](https://www.youtube.com/watch?v=TB5yhZdF8SI), ['20 Sakhir GP](https://www.youtube.com/watch?v=H0zwR2drgV4)). As their lovable German team principal Toto Wolff would say, "[a colossal fuck-up](https://www.youtube.com/watch?v=CmffVyNMS6w)".
+The all-conquering, dominant Mercedes team has been the team to beat for the past few years. They are double World Champions (Constructor and Driver) 7 seasons in a row (2014-2020), and are still favorites coming into the 2021 season. They have a superb team that developed the best power units and fastest cars of this era. They have Lewis Hamilton, one of the best drivers in F1 history, to drive for them. It's *almost* like they are unbeatable, since they hardly make any mistakes during the race. However, in the past couple of seasons, a trend seems to be developing that when they actually do make mistakes, they make huge ones, which produced several truly thrilling and memorable races (['19 German GP](https://www.youtube.com/watch?v=RYHQmBULhLc), ['20 Italian GP](https://www.youtube.com/watch?v=TB5yhZdF8SI), ['20 Sakhir GP](https://www.youtube.com/watch?v=H0zwR2drgV4)). As their lovable German team principal Toto Wolff would say, "[a colossal f**k-up](https://www.youtube.com/watch?v=CmffVyNMS6w)".
+
+Because of their dominance (and maybe also their black livery) they are often seen as the villains and antagonists that everyone wants to beat.
 
 #### Ferrari
 
 ![Scuderia Ferrari SF21](./pics/ferrari.jpg){ zoom: 20%; width: 50%;}
 
-Drivers for 2021: [Charles Leclerc (#16)](#charles-leclerc-16), [Carlos Sainz Jr. (#55)](#carlos-sainz-jr-55)
+Drivers for 2021: [Charles Leclerc (#16)](#charles-leclerc-16), Carlos Sainz Jr. (#55)
 
 2020 Constructor's Standing: 6th
 
-Ah, the famous red car. Ferrari is the team with the longest history in F1, and also the most success. It's often said that other teams such as Mercedes participate in F1 to help advertise and sell their road cars, but Ferrari sells road cars to fund their participation in F1. Such is their dedication to the sport over the many decades. However, for the past dozen years they have not had Championship success. They won their last Driver's and Constructor's Champion all the way back in 2007. They were usually able to stay Top-3 in the Constructor's standings, and were even able to challenge Mercedes from 2017 to 2019, but a series of driver errors and strategic mistakes during the race sank their championship hopes. 2020 Season wasn't kind to them as their car performance dropped significantly, because their power unit used in previous years seemed to have broken the regulations and they were caught. It's difficult to see them return to Top-3 in 2021, but their fans (called the "Tifosi") are still extremely passionate as always.
+The famous red car. Ferrari is the team with the longest history in F1, and also the most success. It's often said that other teams such as Mercedes participate in F1 to help advertise and sell their road cars, but Ferrari sells road cars to fund their participation in F1. Such is their dedication to the sport over the many decades. However, for the past dozen years they have not had Championship success. They won their last Driver's and Constructor's Champion all the way back in 2007. They were usually able to stay Top-3 in the Constructor's standings, and were even able to challenge Mercedes from 2017 to 2019, but a series of driver errors and strategic mistakes during the race sank their championship hopes. Fans joke that it's all part of the "Ferrari master plan".
+
+2020 Season wasn't kind to them as their car performance dropped significantly, mostly because they broke regulations with their power unit and got caught. It's difficult to see them return to Top-3 in 2021, but their fans (called the "Tifosi") are still extremely passionate as always.
 
 #### Red Bull Racing
 
@@ -112,7 +119,7 @@ Drivers for 2021: [Max Verstappen (#33)](#max-verstappen-33), [Sergio Perez (#11
 
 2020 Constructor's Standing: 2nd
 
-My favorite team in F1. They are the fun-loving cool guys and mavericks of the F1 grid. Funded by a "fizzy drinks" company, not a lot of people thought they would succeed when they joined F1 in 2005, but they did. They hired the right guys to design and produce competitive cars, developed many talented young drivers, and winning 4 consecutive double World Champions from 2010 to 2013. Like Ferrari, they were able to stay competitive They were unable to challenge Mercedes recently, mostly because of weaker power units, which is not their fault because they did not develop the PUs (more on that [later](#power-unit)). Even with a weaker car, they are able to grab race wins from Mercedes or Ferrari because of their excellent execution during the race.
+My favorite team in F1. They are the fun-loving cool guys and mavericks of the F1 grid. Funded by a "fizzy drinks" company, not a lot of people thought they would succeed when they joined F1 in 2005, but they did, winning 4 consecutive double World Champions from 2010 to 2013. Like Ferrari, they were able to stay competitive over the years. They were unable to challenge Mercedes recently, mostly because of weaker power units, which is not their fault because they did not develop the PUs (more on that [later](#power-unit)). Even with a weaker car, they are able to grab race wins from Mercedes or Ferrari because of their excellent execution during the race. They also have a very good young driver's development program which produced multiple F1 superstars currently on the grid (Verstappen, Vettel, Ricciardo).
 
 ### The Midfield
 
@@ -124,13 +131,83 @@ Drivers for 2021: [Daniel Ricciardo (#3)](#daniel-ricciardo-3), [Lando Norris (#
 
 2020 Constructor's Standings: 3rd
 
-McLaren is also one of the more historical teams in F1. 
+McLaren is also one of the more historical teams in F1. Senna, Lewis Hamilton and many other Championship-winning drivers used to drive for them. They've had a few really tough years around 2015-2018, but thanks to a major shake up in the team and driver changes, they recovered their form in the past two seasons and should continue to improve this year. They currently have arguably the most popular driver line up in Ricciardo and Norris. Both drivers are very funny and lovable, and able to get the job done on track. I consider McLaren my second favorite team and always love to see them succeed.
 
+#### Aston Martin
 
+![Aston Martin AMR21](./pics/amr.jpeg){ zoom: 20%; width: 50%;}
+
+Drivers for 2021: [Sebastian Vettel (#5)](#sebastian-vettel-5), Lance Stroll (#18)
+
+2020 Constructor's Standings: 4th
+
+The newly re-branded Aston Martin team gone through several ownership changes recently. Previously called Force India (owned by an Indian businessman), then Racing Point for the past couple of seasons after Canadian billionaire Lawrence Stroll took over. Lawrence Stroll then became a major shareholder of the Aston Martin company and decided to turn the Racing Point team into this Aston Martin team.
+
+They have mostly been a decent midfield team, occasionally able to pick up a few podiums. In 2020 they suddenly became quite competitive, but people are quick to notice they borrowed or copied a lot of the design concepts from the 2019 championship-winning Mercedes, earning them a rather funny name of "Tracing Point". They brought in 4-time World Champion, veteran driver Sebastian Vettel for this season, competing alongside Lance Stroll who is the son of Lawrence Stroll. Technically Lance's billionaire dad bought him this F1 seat, but I think Lance is actually an okay driver and people are sometimes too harsh on him.
+
+#### Alpine
+
+![Alpine A521](./pics/alpine.jpg){ zoom: 20%; width: 50%;}
+
+Drivers for 2021: [Fernando Alonso (#14)](#fernando-alonso-14), Esteban Ocon (#31)
+
+2020 Constructor's Standings: 5th
+
+Alpine (pronounced *al-PEEN*) is basically Renault. They have been called Renault for most of their history, and only changed the name this year to promote Renault's sports car brand Alpine.
+
+They have had occasional championship success over the years, most notably in 2005-2006 with Fernando Alonso, but most of the time just a midfield team, not too good and not too bad. They should remain in the midfield in 2021.
+
+The one thing I'm really looking forward about Alpine is Guanyu Zhou, a young Chinese driver from Shanghai, is the top prospect in their development system. Zhou currently races in Formula 2, the lower level feeder series of F1. Seems like Alpine is quite determined to get him into F1 in the next few years, because Zhou is a pretty decent driver and can bring tons of sponsor money from China.
+
+#### AlphaTauri
+
+![AlphaTauri AT02](./pics/alphatauri.jpg){ zoom: 20%; width: 50%;}
+
+Drivers for 2021: [Pierre Gasly (#10)](#pierre-gasly-10), Yuki Tsunoda (#22)
+
+2020 Constructor's Standings: 7th
+
+AlphaTauri is also owned by the Red Bull group. It is previously called Toro Rosso, which is just "Red Bull" in Italian (the team is based in Faenza, Italy). They can be considered as the junior team to Red Bull. They would put young drivers who graduated from their development program into AT first, and promote to Red Bull if they performed well. Gasly and Tsunoda are both from Red Bull's development program. However, since they are still different teams, Red Bull and AT develop their cars separately, but they do share the same engine manufacturer: Honda. AT (and Toro Rosso previously) never had any championship success. The best they ever did in the Constructor's standings is 6th, but that's not their main purpose anyway. They did have two miracle race wins which are really great stories (['08 Italian GP](https://www.youtube.com/watch?v=03sUrwIBQb0), ['20 Italian GP](https://www.youtube.com/watch?v=TB5yhZdF8SI)), both are their home races too!
+
+### The Backmarkers
+
+#### Alfa Romeo
+
+![Alfa Romeo C41](./pics/alfa.jpg){ zoom: 20%; width: 50%;}
+
+Drivers for 2021: [Kimi Raikkonen (#7)](#kimi-raikkonen-7), Antonio Giovinazzi (#99)
+
+2020 Constructor's Standings: 8th
+
+Alfa Romeo is not the biggest name in F1 and they've not had any championships in the not-so-many seasons they participated. They often run close to the back of the field and are not too much of a focus for the TV cameras. I don't know much about them, but they do have a really pretty livery and a very popular driver Kimi Raikkonen.
+
+#### Haas
+
+![Haas VF-21](./pics/haas.jpg){ zoom: 20%; width: 50%;}
+
+Drivers for 2021: Mick Schumacher (#47), Nikita Mazepin (#9)
+
+2020 Constructor's Standings: 9th
+
+Looking at this huge Russian flag livery you really wouldn't believe me that Haas is an American F1 team, but it is. It's owned by Gene Haas who runs Haas Automation. Haas only has 5 years of history and has not been very successful, but that's not the major talking point about this team. Their previous drivers are constantly fighting each other, creating much drama and tension. They have a comically bad-tempered team principal who curses all the time (examples [1](https://www.youtube.com/watch?v=W5WVVls74mI) and [2](https://www.youtube.com/watch?v=q6dFnuqHY10)). They have been involved in a couple of really shady sponsorship deals. This year they are going with two rookie drivers which is usually not the best thing to do. Mick Schumacher is the son of the great Michael Schumacher and everybody loves him. Mazepin however, is quite the d*ckhead to say the least, but he is the one bringing all the Russian money which influenced the color scheme of the car. Just... a very weird team, not very easy to root for them.
+
+#### Williams
+
+![Williams FW43B](./pics/williams.jpg){ :zoom="20%" height="50%" width="50%"}
+
+Drivers for 2021: [George Russell (#63)](#george-russell-63), Nicholas Latifi (#6)
+
+2020 Constructor's Standings: 10th
+
+Williams is a very special case. They have a very long and successful history in F1 and is loved by lots of fans. They are THE very last family-run, traditional team in F1. British businessman Frank Williams established the team in 1977, then the Williams family ran the team for more than 40 years until August of last year, when investment firm Dorilton Capital acquired the team. The new owners continue to use the Williams name, but the family is no longer involved. Their struggles in recent years have been due to financial losses and insufficient funding from the family, when every other team is bringing in huge investments from outside of F1.
+
+They never even once finished in the top-10 during a race in 2020, ending the season with exactly 0 points, which is rather sad for such a historical team. Everyone wants to see them do well, but they still need quite a lot of time to get back on their feet again.
 
 ## The Drivers
 
 ### Lewis Hamilton (#44)
+
+
 
 Nationality: British  
 
@@ -140,7 +217,7 @@ Drives for: Mercedes
 
 Very much the GOAT no matter how you look at it. He's already got the most pole positions (98) and race wins (95) in F1 history. He's tied with Michael Schumacher for the most Driver Championships (7) and very likely to break this record in 2021. His one-lap (quali) ability is unrivaled, sometimes seemingly able to "outdrive" what the car is capable of. He hardly makes any mistakes in the race and is literally the god in wet conditions.  
 
-Tidbits about Hamilton: He's currently the only Black driver on the grid. His personality is a little...... weird, sometimes makes controversial comments off the track.
+He's currently the only Black driver on the F1 grid.
 
 ### Valtteri Bottas (#77)
 
@@ -150,9 +227,7 @@ Age: 31
 
 Drives for: Mercedes  
 
-A very decent driver that gets the job done. Not good enough nor consistent enough to challenge his GOAT teammate for the whole year. Can maybe pick up a few pole positions and race wins every season because of the dominant Mercedes car.  
-
-Tidbits about Bottas: Mercedes say they let their drivers fairly race each other without favoring Hamilton (which I believe they do), but fans often joke that he's the "wingman" to Hamilton which makes Bottas very pissed. But if you're just not quick enough, what else can you do?
+A man of few words or emotions, and a very decent driver that gets the job done. Not good enough nor consistent enough to challenge his GOAT teammate for the whole year. Can maybe pick up a few pole positions and race wins every season because of the dominant Mercedes car.  
 
 ### Max Verstappen (#33)
 
@@ -208,8 +283,6 @@ A general ranking of engine performances: Mercedes > Ferrari = Renault > Honda. 
 
 DRS is a moveable flap in the rear wing that can be triggered to open on specific parts of the track (called DRS zones, usually placed on long straights, out of cornering sections). If the gap between two cars is less than 1 second when approaching the DRS zone, the following car is allowed to use DRS. 
 
-## The Tracks
-
 ## More Technical Concepts
 
 Here are some of the more technical concepts in F1 racing. You can read it if you're curious but it's not absolutely necessary if you just want to understand what's going on and enjoy the race.
@@ -248,15 +321,16 @@ I believe undercuts are generally much more common, mainly because old tyres are
 
 Just a bit of recent news to let you know what everyone in the paddock is talking about:
 
-- Arguably the biggest news: F1 will introduce a big overhaul of technical regulations for next season (2022). The cars will look [quite different](https://www.formula1.com/en/latest/article.fia-announce-new-f1-regulations-to-be-delayed-until-2022.1lwtaLmpNcQd0z9SnMEyK8.html). This is mainly to let the teams close up and improve the quality of racing.
-- In the 2021 Season, F1 will trial what's called "sprint qualifying" for three GPs this year. Basically, they want to try out a 1/3 race (100km) to replace traditional [elimination qualifying](#qualifying).
+- Arguably the biggest news: F1 will introduce a big overhaul of technical regulations for next season (2022). The cars will look [quite different](https://www.formula1.com/en/latest/article.fia-announce-new-f1-regulations-to-be-delayed-until-2022.1lwtaLmpNcQd0z9SnMEyK8.html). This is mainly to close the performance gaps between the teams and improve the quality of racing. Additionally, 
+- In the 2021 Season, F1 will trial what's called "sprint qualifying" for three GPs this year. Basically, they want to try out a 1/3 race (100km) to replace traditional qualifying [as previously described](#qualifying).
 - Honda will quit F1 after the 2021 season. Red Bull has acquired their engine business to form Red Bull Powertrain, so they can technically be considered as a works team.
 
 ## More F1-related Content
 
 - Obviously, [r/formula1](https://www.reddit.com/r/formula1/). (Also maybe, [r/formuladank](https://www.reddit.com/r/formuladank/))
-- The official [F1 YouTube Channel](https://www.youtube.com/user/Formula1) is awesome. You got the multi-million dollar production quality, and also the interesting content and ideas like a really good fan-made channel.
-- A British YouTuber [Chain Bear](https://www.youtube.com/user/chainbearf1) has great videos explaining how everything works in F1, including the technical stuff, race strategy, etc. Love it.
 - The Netflix show [Drive to Survive](https://www.netflix.com/title/80204890) has attracted a large number of new fans from the US recently. It's really well made, in fact the only reason I subscribe to Netflix for 1 month every year. There's quite a lot of drama, although also some forced and manufactured drama. It covers many more interesting characters and stories in the paddock than what I can include in this guide. All in all a very good show. Season 3 premieres on March 19.
-- Some pretty reliable websites and media outlets: [Autosport.com](https://www.autosport.com/), [The Race](https://the-race.com/), [RaceFans.net](https://www.racefans.net/), [Motorsport.com](https://www.motorsport.com/), to name a few.
+- The official [F1 YouTube Channel](https://www.youtube.com/user/Formula1) is awesome. You got the multi-million dollar production quality, and also the interesting content that fans want to see.
+- YouTuber [Chain Bear](https://www.youtube.com/user/chainbearf1) has great videos explaining how everything works in F1, including the technical stuff, race strategy, etc. Love it.
+- For all sorts of funny hijinks, go to [Out of Context F1](https://www.youtube.com/channel/UCeL5SSTtkr7xEePMzqHaqZA).
+- Some pretty reliable websites and media outlets: [Autosport.com](https://www.autosport.com/), [The Race](https://the-race.com/), [RaceFans.net](https://www.racefans.net/), [Motorsport.com](https://www.motorsport.com/), to name a few. Some articles have paywalls.
 
