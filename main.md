@@ -95,7 +95,7 @@ Drivers for 2021: [Lewis Hamilton (#44)](#lewis-hamilton-44), [Valtteri Bottas (
 
 2020 Constructor's Standing: 1st
 
-The all-conquering, dominant Mercedes team has been the team to beat for the past few years. They are double World Champions (Constructor and Driver) 7 seasons in a row (2014-2020), and are still favorites coming into the 2021 season. They have a superb team that developed the best power units and fastest cars of this era. They have Lewis Hamilton, one of the best drivers in F1 history, to drive for them. It's *almost* like they are unbeatable, since they hardly make any mistakes during the race. However, in the past couple of seasons, a trend seems to be developing that when they actually do make mistakes, they make huge ones, which produced several truly thrilling and memorable races (['19 German GP](https://www.youtube.com/watch?v=RYHQmBULhLc), ['20 Italian GP](https://www.youtube.com/watch?v=TB5yhZdF8SI), ['20 Sakhir GP](https://www.youtube.com/watch?v=H0zwR2drgV4)). As their lovable German team principal Toto Wolff would say, "[a colossal f**k-up](https://www.youtube.com/watch?v=CmffVyNMS6w)".
+The all-conquering, dominant Mercedes team has been the team to beat for the past few years. They are double World Champions (Constructor and Driver) 7 seasons in a row (2014-2020), and are still favorites coming into the 2021 season. They have a superb team that developed the best power units and fastest cars of this era. They have Lewis Hamilton, one of the best drivers in F1 history, to drive for them. It's *almost* like they are unbeatable, since they hardly make any mistakes during the race. However, in the past couple of seasons, a trend seems to be developing that when they actually do make mistakes, they make huge ones, which produced several truly thrilling and memorable races (['19 German GP](https://www.youtube.com/watch?v=RYHQmBULhLc), ['20 Italian GP](https://www.youtube.com/watch?v=TB5yhZdF8SI), ['20 Sakhir GP](https://www.youtube.com/watch?v=H0zwR2drgV4)). As their lovable team principal Toto Wolff would say, "[a colossal f**k-up](https://www.youtube.com/watch?v=CmffVyNMS6w)".
 
 Because of their dominance (and maybe also their black livery) they are often seen as the villains and antagonists that everyone wants to beat.
 
@@ -163,11 +163,11 @@ The one thing I'm really looking forward about Alpine is Guanyu Zhou, a young Ch
 
 <img src="./pics/alphatauri.jpg" width="50%" height="50%">
 
-Drivers for 2021: [Pierre Gasly (#10)](#pierre-gasly-10), Yuki Tsunoda (#22)
+Drivers for 2021: Pierre Gasly (#10), Yuki Tsunoda (#22)
 
 2020 Constructor's Standings: 7th
 
-AlphaTauri is also owned by the Red Bull group. It is previously called Toro Rosso, which is just "Red Bull" in Italian (the team is based in Faenza, Italy). They can be considered as the junior team to Red Bull. They would put young drivers who graduated from their development program into AT first, and promote to Red Bull if they performed well. Gasly and Tsunoda are both from Red Bull's development program. However, since they are still different teams, Red Bull and AT develop their cars separately, but they do share the same engine manufacturer: Honda. AT (and Toro Rosso previously) never had any championship success. The best they ever did in the Constructor's standings is 6th, but that's not their main purpose anyway. They did have two miracle race wins which are really great stories (['08 Italian GP](https://www.youtube.com/watch?v=03sUrwIBQb0), ['20 Italian GP](https://www.youtube.com/watch?v=TB5yhZdF8SI)), both are their home races too!
+AlphaTauri is also owned by the Red Bull group. It is previously called Toro Rosso, which is just "Red Bull" in Italian (the team is based in Faenza, Italy). They can be considered as the junior team to Red Bull. They would put young drivers who graduated from their development program into AT first, and promote to Red Bull if they performed well. Gasly and Tsunoda are both from Red Bull's development program. However, since they are still different teams, Red Bull and AT develop their cars separately, but they do share the same engine manufacturer: Honda. AT (and Toro Rosso previously) never had any championship success, but that's not their main purpose anyway. They did have two miracle race wins which are really great stories (['08 Italian GP](https://www.youtube.com/watch?v=03sUrwIBQb0), ['20 Italian GP](https://www.youtube.com/watch?v=TB5yhZdF8SI)), both are their home races too!
 
 ### The Backmarkers
 
@@ -189,7 +189,7 @@ Drivers for 2021: Mick Schumacher (#47), Nikita Mazepin (#9)
 
 2020 Constructor's Standings: 9th
 
-Looking at this huge Russian flag livery you really wouldn't believe me that Haas is an American F1 team, but it is. It's owned by Gene Haas who runs Haas Automation. Haas only has 5 years of history and has not been very successful, but that's not the major talking point about this team. Their previous drivers are constantly fighting each other, creating much drama and tension. They have a comically bad-tempered team principal who curses all the time (examples [1](https://www.youtube.com/watch?v=W5WVVls74mI) and [2](https://www.youtube.com/watch?v=q6dFnuqHY10)). They have been involved in a couple of really shady sponsorship deals. This year they are going with two rookie drivers which is usually not the best thing to do. Mick Schumacher is the son of the great Michael Schumacher and everybody loves him. Mazepin however, is quite the d*ckhead to say the least, but he is the one bringing all the Russian money which influenced the color scheme of the car. Just... a very weird team, not very easy to root for them.
+Looking at this huge Russian flag livery you really wouldn't believe me that Haas is an American F1 team, but it is. It's owned by Gene Haas who runs Haas Automation. Haas only has 5 years of history and has not been very successful, but that's not the major talking point about this team. Their previous drivers are often fighting each other, creating much drama and tension. They have a funny-tempered team principal who curses all the time (exhibit [1](https://www.youtube.com/watch?v=W5WVVls74mI) and [2](https://www.youtube.com/watch?v=q6dFnuqHY10)). They have been involved in a couple of really shady sponsorship deals. This year they are going with two rookie drivers which is usually not the best thing to do. Mick Schumacher is the son of the great Michael Schumacher and everybody loves him. Mazepin however, is quite the d*ckhead to say the least, but he is the one bringing all the Russian money which influenced the color scheme of the car. Just... a very weird team.
 
 #### Williams
 
@@ -199,29 +199,31 @@ Drivers for 2021: [George Russell (#63)](#george-russell-63), Nicholas Latifi (#
 
 2020 Constructor's Standings: 10th
 
-Williams is a very special case. They have a very long and successful history in F1 and is loved by lots of fans. They are THE very last family-run, traditional team in F1. British businessman Frank Williams established the team in 1977, then the Williams family ran the team for more than 40 years until August of last year, when investment firm Dorilton Capital acquired the team. The new owners continue to use the Williams name, but the family is no longer involved. Their struggles in recent years have been due to financial losses and insufficient funding from the family, when every other team is bringing in huge investments from outside of F1.
+Williams is a very special case. They have a very long and successful history in F1 and widely loved. They are the last traditional, independent  family-run team in F1. British businessman Frank Williams established the team in 1977, then the Williams family ran the team for more than 40 years until August of last year, when a US investment firm acquired the team. The new owners continue to use the Williams name, but the family is no longer involved. Their struggles in recent years have been due to financial losses and insufficient funding, when every other team is bringing in big bucks from outside of F1 as well as building technical partnerships.
 
 They never even once finished in the top-10 during a race in 2020, ending the season with exactly 0 points, which is rather sad for such a historical team. Everyone wants to see them do well, but they still need quite a lot of time to get back on their feet again.
 
 ## The Drivers
 
+I feel like one good thing about F1 is that there are not that many people in the paddock that we need to memorize. Additionally, only about 10 drivers are really the main characters, so it's quite easy to develop a strong attachment with every one of them. Here I'll introduce these main characters. For the other ones that are not in the spotlight or that I simply don't know much about, I condensed all of them into one section at the end.
+
 ### Lewis Hamilton (#44)
 
 <img src="./pics/hamilton.jpg" width="30%" height="30%">
 
-Nationality: <img alt="Australia" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png" height="10%"/>British 
+Nationality: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png"/> British 
 
 Age: 36  
 
 Drives for: Mercedes
 
-Very much the GOAT no matter how you look at it. He's already got the most pole positions (98) and race wins (95) in F1 history. He's tied with Michael Schumacher for the most Driver Championships (7) and very likely to break this record in 2021. His one-lap (quali) ability is unrivaled, sometimes seemingly able to "outdrive" what the car is capable of. He hardly makes any mistakes in the race and is literally the god in wet conditions. He's currently the only Black driver on the F1 grid.
+Very much the GOAT no matter how you look at it. He's already got the most pole positions (98) and race wins (95) in F1 history. He's tied with the great Michael Schumacher for the most Driver's Championships (7) and very likely to break this record in 2021. His one-lap (quali) ability is unrivaled, sometimes seemingly able to "outdrive" what the car is capable of. He hardly makes any mistakes in the race and is literally the god in wet conditions. He's currently the only Black driver on the F1 grid.
 
 ### Valtteri Bottas (#77)
 
 <img src="./pics/bottas.jpeg" width="40%" height="40%">
 
-Nationality: Finnish 
+Nationality: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png"/> Finnish 
 
 Age: 31  
 
@@ -233,7 +235,7 @@ A typical Finnish character, he's a man of few words or emotions. Also a very de
 
 <img src="./pics/verstappen.jpeg" width="40%" height="40%">
 
-Nationality: Dutch 
+Nationality: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png"/> Dutch 
 
 Age: 23  
 
@@ -245,7 +247,91 @@ Tidbit about Verstappen: He was promoted from Toro Rosso (i.e. the current Alpha
 
 ### Daniel Ricciardo (#3)
 
-Nationality: <img alt="Australia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_(converted).svg/23px-Flag_of_Australia_(converted).svg.png" /> Australia
+<img src="./pics/ricciardo.jpg" width="40%" height="40%">
+
+Nationality: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png" /> Australian
+
+Age: 31
+
+Drives for: McLaren
+
+*That smile. That damned smile.*
+
+Danny Ric is the single most genuinely funny and charismatic person in F1. Nicknamed "the honey badger", he's always friendly and have this giant smile on his face, but on the track turns into a savage predator with relentless pace and unbelievable overtaking skills. He used to be Verstappen's teammate at Red Bull, and among all the teammates Verstappen's ever had, Ricciardo is the only one that can give him a run for his money. In terms of current driving ability, I rank him only behind Hamilton and Verstappen.
+
+Tidbit about Ricciardo: He's a big fan of Austin and the state of Texas. He once used a [Texas Longhorn inspired helmet](https://twitter.com/AlpineF1Team/status/1190016202439086080) when he came to race at the US Grand Prix in Austin.
+
+### Charles Leclerc (#16)
+
+<img src="./pics/leclerc.png" width="40%" height="40%">
+
+Nationality: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/29px-Flag_of_Monaco.svg.png" /> Monégasque
+
+Age: 23
+
+Drives for: Ferrari
+
+The young future star of Ferrari. About to enter his 4th year in F1, he is already showing the talent to be a Top-5 driver, with Championship-winning potential if given a good car. In 2020, he completely outperformed his Ferrari teammate, 4-time World Champion Sebastian Vettel. This may be part of the reason why Ferrari decided to part ways with Vettel and go with Leclerc for the long term future.
+
+### Sebastian Vettel (#5)
+
+<img src="./pics/vettel.jpg" width="40%" height="40%">
+
+Nationality: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png" /> German
+
+Age: 33
+
+Drives for: Aston Martin
+
+4-time World Champion Sebastian Vettel is one of the most successful drivers in F1 history. He won all his 4 Championships with Red Bull from 2010 to 2013. However, his later tenure with Ferrari from 2015 to 2020 was sweet and sour, without championship success because of the Mercedes dominance. His form gradually declined in the last couple of seasons. He joined Aston Martin this season hoping for a fresh new challenge. He's a very methodical driver and pays much attention to the technical stuff, almost like an engineer.
+
+Tidbit about Vettel: He has a nickname "Inspector Seb" because his habit of peeking at other teams' cars.
+
+### Fernando Alonso (#14)
+
+<img src="./pics/alonso.jpg" width="40%" height="40%">
+
+Nationality: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png" /> Spanish
+
+Age: 39
+
+Drives for: Alpine
+
+Veteran driver Alonso is back to F1 after a 2-year hiatus. Previously he won 2 Championships with Renault (the current Alpine team) in 2005 and 2006. He also drove for Ferrari and McLaren later in his career. He is a very talented driver and considered one of the best in F1 history. At his peak during the 2010s he was able to rival Hamilton (they used to be teammates at McLaren).
+
+### Sergio Perez (#11)
+
+<img src="./pics/perez.jpg" width="40%" height="40%">
+
+Nationality: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png" /> Mexican
+
+Age: 31
+
+Drives for: Red Bull Racing
+
+Perez is a very underrated driver in F1. He is known for his great consistency and ability to take care of the tyres. He has been in midfield teams for the entirety of his 10-year F1 career, but was able to score 10 podiums and 1 miraculous race win (['20 Sakhir GP](https://www.youtube.com/watch?v=H0zwR2drgV4)), which tells you how good he is. After being dropped by his former team Racing Point (the current Aston Martin) when they signed Sebastian Vettel, he was at risk of losing an F1 drive before Red Bull signed him to partner Verstappen for 2021. Fans are all really happy for him since this is an opportunity he thoroughly deserves.
+
+### Kimi Raikkonen (#7)
+
+<img src="./pics/raikkonen.jpg" width="40%" height="40%">
+
+Nationality: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png"/> Finnish 
+
+Age: 41
+
+Drives for: Alfa Romeo
+
+Kimi is currently the oldest driver in F1 and also the most experienced. Nicknamed "the Iceman", he's even more of the reserved, emotionless Finnish character than his fellow countryman Bottas. He is a living walking meme and a legend, simply because he just loves to drive... and [get drunk](https://www.youtube.com/watch?v=gXFxnVeAOVU)... and [enjoy himself](https://www.youtube.com/watch?v=ZMzeluIxblY). All the social media, interviews and PR stuff don't interest him [even the tiniest bit](https://www.youtube.com/watch?v=QjdYTzlfms0). Driving in F1 is [more like a hobby for him](https://www.youtube.com/watch?v=cvQ1J3gCPOg).
+
+Wait wait wait enough with the memes... What adds even more to his legend is that this guy is actually the 2007 Ferrari World Champion that I mentioned [earlier](#ferrari), so he was really good in his prime.
+
+### Lando Norris (#4)
+
+### George Russell (#63)
+
+### Everyone Else
+
+### How to Distinguish Drivers
 
 ## The Cars
 
