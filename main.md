@@ -15,12 +15,12 @@ People often joke to me like motorsports are just cars running in circles. I mea
 ## Contents
 
 1. [**Championship and Event Format**](#championship-and-event-format)
-3. [**The Teams**](#the-teams)
-4. [**The Drivers**](#the-drivers)
-4. [**The Cars**](#the-cars)
-6. [**A Few More Technical Concepts**](#more-technical-concepts)
-7. [**News in the Paddock**](#news-in-the-paddock)
-8. [**More F1-related Content**](#more-f1-related-content)
+1. [**The Teams**](#the-teams)
+1. [**The Drivers**](#the-drivers)
+1. [**The Cars**](#the-cars)
+1. [**A Few More Technical Concepts**](#more-technical-concepts)
+<!-- 1. [**News in the Paddock**](#news-in-the-paddock) -->
+1. [**More F1-related Content**](#more-f1-related-content)
 
 ## Championship and Event Format
 
@@ -78,8 +78,8 @@ The **Driver's World Champion** is whoever scores the most points over the seaso
 * The grid positions may be changed after qualifying. If a driver or team violated the sporting regulations, such as blocking other drivers on the track, changing a car part that they're not allowed to change, etc., they may be penalized in the form of dropping places on the starting grid. Similarly, drivers can get penalized during the race if they caused a collision, cut corners, forced other drivers off track, etc. The penalties include adding a few seconds to your race time, forcing you to drive through the pitlane (which has a speed limit), or even disqualification.
 * All drivers have to do one mandatory pitstop during the race. F1 bans refueling during the race, so pitstops are pretty much only used to change tyres or front wings (if the wing is broken). A typical F1 pitstop nowadays takes only 2.5 seconds. Anything more than 3 to 4 seconds is pretty bad. The best pit crews are sometimes able to do sub-2 second pitstops.
 * When incidents happen during the race, say there's been a crash and there's debris on track or a broken barrier, the FIA will deploy the Safety Car which all cars must follow and bunch up behind. No overtakes are allowed and all cars drive at a much lower speed than normal race speeds, then the track workers (called "marshals") can have a safe gap to clean up the mess. This year's Safety Car duties will be shared between two absolutely stunning vehicles: the Mercedes AMG GT R, and (perhaps your favorite) the Aston Martin Vantage.  
-  <img src="./pics/safetycar1.jpg" alt="Mercedes AMG GT R Safety Car" width="40%" height="40%"/>
-  <img src=".\pics\safetycar2.jpg" alt="Aston Martin DBX"  width="40%" height="40%"/>
+  <img src="./pics/safetycar1.jpg" alt="Mercedes AMG GT R Safety Car" width="40%">
+  <img src=".\pics\safetycar2.jpg" alt="Aston Martin Vantage"  width="40%">
 
 ## The Teams
 
@@ -89,19 +89,19 @@ The 10 teams are, of course, where all the stories revolve around. There are the
 
 #### Mercedes
 
-<img src="./pics/mercedes.jpg" width="50%" height="50%">
+<img src="./pics/mercedes.jpg" width="50%">
 
 Drivers for 2021: [Lewis Hamilton (#44)](#lewis-hamilton-44), [Valtteri Bottas (#77)](#valtteri-bottas-77)
 
 2020 Constructor's Standing: 1st
 
-The all-conquering, dominant Mercedes team has been the team to beat for the past few years. They are double World Champions (Constructor and Driver) 7 seasons in a row (2014-2020), and are still favorites coming into the 2021 season. They have a superb team that developed the best power units and fastest cars of this era. They have Lewis Hamilton, one of the best drivers in F1 history, to drive for them. It's *almost* like they are unbeatable, since they hardly make any mistakes during the race. However, in the past couple of seasons, a trend seems to be developing that when they actually do make mistakes, they make huge ones, which produced several truly thrilling and memorable races (['19 German GP](https://www.youtube.com/watch?v=RYHQmBULhLc), ['20 Italian GP](https://www.youtube.com/watch?v=TB5yhZdF8SI), ['20 Sakhir GP](https://www.youtube.com/watch?v=H0zwR2drgV4)). As their lovable team principal Toto Wolff would say, "[a colossal f**k-up](https://www.youtube.com/watch?v=CmffVyNMS6w)".
+The all-conquering, dominant Mercedes team has been the team to beat for the past few years. They are double World Champions (Constructor and Driver) 7 seasons in a row (2014-2020), and are still favorites coming into the 2021 season. They have a superb team that developed the best power units and fastest cars of this era. They have Lewis Hamilton, one of the best drivers in F1 history, to drive for them. It's *almost* like they are unbeatable, since they hardly make any mistakes during the race. However, in the past couple of seasons, a trend seems to be developing that when they actually do make mistakes, they make huge ones, which produced several truly thrilling and memorable races (['19 German GP](https://www.youtube.com/watch?v=RYHQmBULhLc), ['20 Italian GP](https://www.youtube.com/watch?v=TB5yhZdF8SI), ['20 Sakhir GP](https://www.youtube.com/watch?v=H0zwR2drgV4)).
 
 Because of their dominance (and maybe also their black livery) they are often seen as the villains and antagonists that everyone wants to beat.
 
 #### Ferrari
 
-<img src="./pics/ferrari.jpg" width="50%" height="50%">
+<img src="./pics/ferrari.jpg" width="50%">
 
 Drivers for 2021: [Charles Leclerc (#16)](#charles-leclerc-16), Carlos Sainz Jr. (#55)
 
@@ -113,7 +113,7 @@ The famous red car. Ferrari is the team with the longest history in F1, and also
 
 #### Red Bull Racing
 
-<img src="./pics/rbr.jpg" width="50%" height="50%">
+<img src="./pics/rbr.jpg" width="50%">
 
 Drivers for 2021: [Max Verstappen (#33)](#max-verstappen-33), [Sergio Perez (#11)](#sergio-perez-11)
 
@@ -125,7 +125,7 @@ My favorite team in F1. They are the fun-loving cool guys and mavericks of the F
 
 #### McLaren
 
-<img src="./pics/mclaren.jpg" width="50%" height="50%">
+<img src="./pics/mclaren.jpg" width="50%">
 
 Drivers for 2021: [Daniel Ricciardo (#3)](#daniel-ricciardo-3), [Lando Norris (#4)](#lando-norris-4)
 
@@ -135,7 +135,7 @@ McLaren is also one of the more historical teams in F1. Senna, Lewis Hamilton an
 
 #### Aston Martin
 
-<img src="./pics/amr.jpeg" width="50%" height="50%">
+<img src="./pics/amr.jpeg" width="50%">
 
 Drivers for 2021: [Sebastian Vettel (#5)](#sebastian-vettel-5), Lance Stroll (#18)
 
@@ -147,7 +147,7 @@ They have mostly been a decent midfield team, occasionally able to pick up a few
 
 #### Alpine
 
-<img src="./pics/alpine.jpg" width="50%" height="50%">
+<img src="./pics/alpine.jpg" width="50%">
 
 Drivers for 2021: [Fernando Alonso (#14)](#fernando-alonso-14), Esteban Ocon (#31)
 
@@ -161,7 +161,7 @@ The one thing I'm really looking forward about Alpine is Guanyu Zhou, a young Ch
 
 #### AlphaTauri
 
-<img src="./pics/alphatauri.jpg" width="50%" height="50%">
+<img src="./pics/alphatauri.jpg" width="50%">
 
 Drivers for 2021: Pierre Gasly (#10), Yuki Tsunoda (#22)
 
@@ -173,7 +173,7 @@ AlphaTauri is also owned by the Red Bull group. It is previously called Toro Ros
 
 #### Alfa Romeo
 
-<img src="./pics/alfa.jpg" width="50%" height="50%">
+<img src="./pics/alfa.jpg" width="50%">
 
 Drivers for 2021: [Kimi Raikkonen (#7)](#kimi-raikkonen-7), Antonio Giovinazzi (#99)
 
@@ -183,7 +183,7 @@ Alfa Romeo is not the biggest name in F1 and they've not had any championships i
 
 #### Haas
 
-<img src="./pics/haas.jpg" width="50%" height="50%">
+<img src="./pics/haas.jpg" width="50%">
 
 Drivers for 2021: Mick Schumacher (#47), Nikita Mazepin (#9)
 
@@ -193,7 +193,7 @@ Looking at this huge Russian flag livery you really wouldn't believe me that Haa
 
 #### Williams
 
-<img src="./pics/williams.jpg" width="50%" height="50%">
+<img src="./pics/williams.jpg" width="50%">
 
 Drivers for 2021: [George Russell (#63)](#george-russell-63), Nicholas Latifi (#6)
 
@@ -211,9 +211,9 @@ Note: the number behind each driver's name is their car number.
 
 ### Lewis Hamilton (#44)
 
-<img src="./pics/hamilton.jpg" width="30%" height="30%">
+<img src="./pics/hamilton.jpg" width="30%">
 
-Nationality: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png"/> British 
+Nationality: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png"/> British
 
 Age: 36  
 
@@ -223,9 +223,9 @@ Very much the GOAT no matter how you look at it. He's already got the most pole 
 
 ### Valtteri Bottas (#77)
 
-<img src="./pics/bottas.jpeg" width="40%" height="40%">
+<img src="./pics/bottas.jpeg" width="40%">
 
-Nationality: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png"/> Finnish 
+Nationality: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png"/> Finnish
 
 Age: 31  
 
@@ -235,9 +235,9 @@ A typical Finnish character, he's a man of few words or emotions. Also a very de
 
 ### Max Verstappen (#33)
 
-<img src="./pics/verstappen.jpeg" width="40%" height="40%">
+<img src="./pics/verstappen.jpeg" width="40%">
 
-Nationality: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png"/> Dutch 
+Nationality: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png"/> Dutch
 
 Age: 23  
 
@@ -249,7 +249,7 @@ Tidbit about Verstappen: He was promoted from Toro Rosso (i.e. the current Alpha
 
 ### Daniel Ricciardo (#3)
 
-<img src="./pics/ricciardo.jpg" width="40%" height="40%">
+<img src="./pics/ricciardo.jpg" width="40%">
 
 Nationality: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png" /> Australian
 
@@ -265,7 +265,7 @@ Tidbit about Ricciardo: He's a big fan of Austin and the state of Texas. He once
 
 ### Charles Leclerc (#16)
 
-<img src="./pics/leclerc.png" width="40%" height="40%">
+<img src="./pics/leclerc.png" width="40%">
 
 Nationality: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/29px-Flag_of_Monaco.svg.png" /> Monégasque
 
@@ -277,7 +277,7 @@ The young future star of Ferrari. About to enter his 4th year in F1, he is alrea
 
 ### Sebastian Vettel (#5)
 
-<img src="./pics/vettel.jpg" width="40%" height="40%">
+<img src="./pics/vettel.jpg" width="40%">
 
 Nationality: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png" /> German
 
@@ -291,7 +291,7 @@ Tidbit about Vettel: He has a nickname "Inspector Seb" because his habit of peek
 
 ### Fernando Alonso (#14)
 
-<img src="./pics/alonso.jpg" width="40%" height="40%">
+<img src="./pics/alonso.jpg" width="40%">
 
 Nationality: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png" /> Spanish
 
@@ -303,7 +303,7 @@ Veteran driver Alonso is back to F1 after a 2-year hiatus. Previously he won 2 C
 
 ### Sergio Perez (#11)
 
-<img src="./pics/perez.jpg" width="40%" height="40%">
+<img src="./pics/perez.jpg" width="40%">
 
 Nationality: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png" /> Mexican
 
@@ -315,9 +315,9 @@ Sergio "Checo" Perez is a very underrated driver. He is known for his great cons
 
 ### Kimi Raikkonen (#7)
 
-<img src="./pics/raikkonen.jpg" width="40%" height="40%">
+<img src="./pics/raikkonen.jpg" width="40%">
 
-Nationality: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png"/> Finnish 
+Nationality: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png"/> Finnish
 
 Age: 41
 
@@ -329,9 +329,9 @@ Wait wait wait enough with the memes... What adds even more to his legend status
 
 ### Lando Norris (#4)
 
-<img src="./pics/norris.jpeg" width="40%" height="40%">
+<img src="./pics/norris.jpeg" width="40%">
 
-Nationality: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png"/> British 
+Nationality: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png"/> British
 
 Age: 21
 
@@ -343,9 +343,9 @@ He is immensely popular especially among our generation because he's an avid gam
 
 ### George Russell (#63)
 
-<img src="./pics/russell.jpg" width="40%" height="40%">
+<img src="./pics/russell.jpg" width="40%">
 
-Nationality: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png"/> British 
+Nationality: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png"/> British
 
 Age: 23
 
@@ -353,25 +353,36 @@ Drives for: Williams
 
 Russell is an important character because he is the top prospect in the Mercedes driver development program and is considered to have World-Champion-level talent.  He will very likely take Lewis Hamilton's seat when Hamilton decides to eventually retire or switch teams. Currently driving for backmarker team Williams, results are obviously hard to come by. However, at the ['20 Sakhir GP](https://www.youtube.com/watch?v=eglCFzxWg6U) he substituted for COVID-positive Hamilton  at Mercedes and drove an absolutely flawless race, but was robbed of a sensational victory because of Mercedes' rare strategic blunder. He is a very lovable and funny character, often streaming on Twitch with Norris and Leclerc.
 
+### Pierre Gasly (#10)
+<img src="./pics/gasly.jpg" width="40%">
+
+Nationality: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png"/> French
+
+Age: 25
+
+Drives for: AlphaTauri
+
+Promoted to Red Bull in 2019, but got demoted back to Toro Rosso/AlphaTauri because of poor performance. However, he recovered his form at Toro Rosso/AlphaTauri and scored 2 podiums including a miracle [race win](https://www.youtube.com/watch?v=TB5yhZdF8SI).
+
+
 ### Others
 
 | Picture, Name and Car Number                                 | Nationality                                                  | Team         | Descriptions                                                 |
 | :----------------------------------------------------------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ |
-| <img src="./pics/sainz.jpg" width="250px">Carlos Sainz, Jr. (#55) | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png" />Spanish | Ferrari      | <div width="500px">Ferrari's new driver for 2021. Partnered with Lando Norris at McLaren for 2 seasons, with similar results as Norris.</div> |
-| <img src="./pics/stroll.jpg" width="250px">Lance Stroll (#18) | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png" />Canadian | Aston Martin | <div width="500px">Son of Aston Martin team owner Lawrence Stroll. An okay young driver.</div> |
-| <img src="./pics/ocon.jpg" width="250px">Esteban Ocon (#31)  | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png" />French | Alpine       | <div width="500px">Also relatively young (aged 24). A midfield driver in a midfield team.</div> |
-| <img src="./pics/gasly.jpg" width="250px">Pierre Gasly (#10) | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png" />French | AlphaTauri   | <div width="500px">Promoted to Red Bull in 2019, but got demoted back to Toro Rosso/AlphaTauri because of poor performance. However, he recovered his form at Toro Rosso/AlphaTauri and scored 2 podiums including a miracle [race win](https://www.youtube.com/watch?v=TB5yhZdF8SI).</div> |
-| <img src="./pics/tsunoda.jpg" width="250px">Yuki Tsunoda (#22) | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png" />Japanese | AlphaTauri   | <div width="500px">A highly regarded rookie from Japan. Raced in Formula 2 in 2020. Finished 3rd in F2 driver's championship.</div> |
-| <img src="./pics/giovinazzi.jpg" width="250px">Antonio Giovinazzi (#99) | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png" />Italian | Alfa Romeo   | <div width="500px">Entering 3rd season in F1, no standout performance that I can remember.</div> |
-| <img src="./pics/schumacher.jpg" width="250px">Mick Schumacher (#47) | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png" />German | Haas         | <div width="500px">Son of the great Michael Schumacher. Raced and won the driver's championship in Formula 2 in 2020.</div> |
-| <img src="./pics/mazepin.jpg" width="250px">Nikita Mazepin (#9) | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png" />Russian | Haas         | <div width="500px"> Simply put, he's quite a d*ckhead. Raced in Formula 2 in 2020. Finished 5th in F2 driver's championship.</div> |
-| <img src="./pics/latifi.jpg" width="250px">Nicholas Latifi (#99) | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png" />Canadian | Williams     | <div width="500px">Not a very good driver, was constantly beaten by more talented teammate George Russell.</div> |
+| <img src="./pics/sainz.jpg" width="250px">Carlos Sainz, Jr. (#55) | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png" />Spanish | Ferrari      | <div style="width:500px">Ferrari's new driver for 2021. Partnered with Lando Norris at McLaren for the last 2 seasons, with similar results (which is to say, pretty good).</div> |
+| <img src="./pics/stroll.jpg" width="250px">Lance Stroll (#18) | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png" />Canadian | Aston Martin | <div style="width:500px">Son of Aston Martin team owner Lawrence Stroll. An okay young driver.</div> |
+| <img src="./pics/ocon.jpg" width="250px">Esteban Ocon (#31)  | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png" />French | Alpine       | <div style="width:500px">Also relatively young (aged 24). A midfield driver in a midfield team.</div> |
+| <img src="./pics/tsunoda.jpg" width="250px">Yuki Tsunoda (#22) | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png" />Japanese | AlphaTauri   | <div style="width:500px">A highly regarded rookie from Japan. Raced in Formula 2 in 2020. Finished 3rd in F2 driver's championship.</div> |
+| <img src="./pics/giovinazzi.jpg" width="250px">Antonio Giovinazzi (#99) | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png" />  Italian | Alfa Romeo   | <div style="width:500px">Entering 3rd season in F1, no standout performance that I can remember.</div> |
+| <img src="./pics/schumacher.jpg" width="250px">Mick Schumacher (#47) | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png" />German | Haas         | <div style="width:500px">Son of the great Michael Schumacher. Raced and won the driver's championship in Formula 2 in 2020.</div> |
+| <img src="./pics/mazepin.jpg" width="250px">Nikita Mazepin (#9) | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png" />Russian | Haas         | <div style="width:500px">Simply put, he's quite a d*ckhead. Doesn't drive very well either.</div> |
+| <img src="./pics/latifi.jpg" width="250px">Nicholas Latifi (#99) | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png" />Canadian | Williams     | <div style="width:500px">Not a very good driver, was constantly beaten by more talented teammate George Russell.</div> |
 
 ### How to Distinguish Drivers in the Same Team
 
 ## The Cars
 
-<img src=".\pics\car_diagram.jpeg" alt="F1 Car"  width="60%"/>
+<img src=".\pics\car_diagram.jpeg" alt="F1 Car"  width="60%">
 
 Formula 1 cars are insanely complex and powerful machines. A couple of quick facts:
 
@@ -401,7 +412,7 @@ A general ranking of engine performances: Mercedes > Ferrari = Renault > Honda. 
 
 ### Bodywork
 
-DRS is a moveable flap in the rear wing that can be triggered to open on specific parts of the track (called DRS zones, usually placed on long straights, out of cornering sections). If the gap between two cars is less than 1 second when approaching the DRS zone, the following car is allowed to use DRS. 
+DRS is a moveable flap in the rear wing that can be triggered to open on specific parts of the track (called DRS zones, usually placed on long straights, out of cornering sections). If the gap between two cars is less than 1 second when approaching the DRS zone, the following car is allowed to use DRS.
 
 ## More Technical Concepts
 
@@ -437,15 +448,15 @@ You can set up the wing angles to be steeper to increase downforce at the front 
 
 I believe undercuts are generally much more common, mainly because old tyres are generally supposed to be slower than new tyres, but there are lots of factors that affect tyre performance so it's not always the case.
 
-## News in the Paddock
+<!-- ## News in the Paddock
 
 Just a bit of recent news to let you know what everyone in the paddock is talking about:
 
-- Arguably the biggest news: F1 will introduce a big overhaul of technical regulations for next season (2022). The cars will look [quite different](https://www.formula1.com/en/latest/article.fia-announce-new-f1-regulations-to-be-delayed-until-2022.1lwtaLmpNcQd0z9SnMEyK8.html). This is mainly to close the performance gaps between the teams and improve the quality of racing. Additionally, 
+- Arguably the biggest news: F1 will introduce a big overhaul of technical regulations for next season (2022). The cars will look [quite different](https://www.formula1.com/en/latest/article.fia-announce-new-f1-regulations-to-be-delayed-until-2022.1lwtaLmpNcQd0z9SnMEyK8.html). This is mainly to close the performance gaps between the teams and improve the quality of racing. Additionally,
 - In the 2021 Season, F1 will trial what's called "sprint qualifying" for three GPs this year. Basically, they want to try out a 1/3 race (100km) to replace traditional qualifying [as previously described](#qualifying).
 - Honda will quit F1 after the 2021 season. Red Bull has acquired their engine business to form Red Bull Powertrain, so they can technically be considered as a works team.
 
-## More F1-related Content
+## More F1-related Content -->
 
 - Obviously, [r/formula1](https://www.reddit.com/r/formula1/). (Also maybe, [r/formuladank](https://www.reddit.com/r/formuladank/))
 - The Netflix show [Drive to Survive](https://www.netflix.com/title/80204890) has attracted a large number of new fans from the US recently. It's really well made, in fact the only reason I subscribe to Netflix for 1 month every year. There's quite a lot of drama, although also some forced and manufactured drama. It covers many more interesting characters and stories in the paddock than what I can include in this guide. All in all a very good show. Season 3 premieres on March 19.
@@ -453,4 +464,3 @@ Just a bit of recent news to let you know what everyone in the paddock is talkin
 - YouTuber [Chain Bear](https://www.youtube.com/user/chainbearf1) has great videos explaining how everything works in F1, including the technical stuff, race strategy, etc. Love it.
 - For all sorts of funny hijinks, go to [Out of Context F1](https://www.youtube.com/channel/UCeL5SSTtkr7xEePMzqHaqZA).
 - Some pretty reliable websites and media outlets: [Autosport.com](https://www.autosport.com/), [The Race](https://the-race.com/), [RaceFans.net](https://www.racefans.net/), [Motorsport.com](https://www.motorsport.com/), to name a few. Some articles have paywalls.
-
