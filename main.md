@@ -19,8 +19,8 @@ People often joke to me like motorsports are just cars running in circles. I mea
 1. [**The Drivers**](#the-drivers)
 1. [**The Cars**](#the-cars)
 1. [**A Few More Technical Concepts**](#more-technical-concepts)
-<!-- 1. [**News in the Paddock**](#news-in-the-paddock) -->
 1. [**More F1-related Content**](#more-f1-related-content)
+<!-- 1. [**News in the Paddock**](#news-in-the-paddock) -->
 
 ## Championship and Event Format
 
@@ -79,7 +79,7 @@ The **Driver's World Champion** is whoever scores the most points over the seaso
 * All drivers have to do one mandatory pitstop during the race. F1 bans refueling during the race, so pitstops are pretty much only used to change tyres or front wings (if the wing is broken). A typical F1 pitstop nowadays takes only 2.5 seconds. Anything more than 3 to 4 seconds is pretty bad. The best pit crews are sometimes able to do sub-2 second pitstops.
 * When incidents happen during the race, say there's been a crash and there's debris on track or a broken barrier, the FIA will deploy the Safety Car which all cars must follow and bunch up behind. No overtakes are allowed and all cars drive at a much lower speed than normal race speeds, then the track workers (called "marshals") can have a safe gap to clean up the mess. This year's Safety Car duties will be shared between two absolutely stunning vehicles: the Mercedes AMG GT R, and (perhaps your favorite) the Aston Martin Vantage.  
   <img src="./pics/safetycar1.jpg" alt="Mercedes AMG GT R Safety Car" width="40%">
-  <img src=".\pics\safetycar2.jpg" alt="Aston Martin Vantage"  width="40%">
+  <img src="./pics/safetycar2.jpg" alt="Aston Martin Vantage"  width="40%">
 
 ## The Teams
 
@@ -153,7 +153,7 @@ Drivers for 2021: [Fernando Alonso (#14)](#fernando-alonso-14), Esteban Ocon (#3
 
 2020 Constructor's Standings: 5th
 
-Alpine (pronounced *al-PEEN*) is basically Renault. They have been called Renault for most of their history, and only changed the name this year to promote Renault's sports car brand Alpine.
+Alpine is basically just Renault. They have been called Renault for most of their history, and only changed the name this year to promote Renault's sports car brand Alpine.
 
 They have had occasional championship success over the years, most notably in 2005-2006 with Fernando Alonso, but most of the time just a midfield team, not too good and not too bad. They should remain in the midfield in 2021.
 
@@ -163,7 +163,7 @@ The one thing I'm really looking forward about Alpine is Guanyu Zhou, a young Ch
 
 <img src="./pics/alphatauri.jpg" width="50%">
 
-Drivers for 2021: Pierre Gasly (#10), Yuki Tsunoda (#22)
+Drivers for 2021: [Pierre Gasly (#10)](#pierre-gasly-10), Yuki Tsunoda (#22)
 
 2020 Constructor's Standings: 7th
 
@@ -217,7 +217,7 @@ Nationality: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag
 
 Age: 36  
 
-Drives for: Mercedes
+Drives for: [Mercedes](#mercedes)
 
 Very much the GOAT no matter how you look at it. He's already got the most pole positions (98) and race wins (95) in F1 history. He's tied with the great Michael Schumacher for the most Driver's Championships (7) and very likely to break this record in 2021. His one-lap (quali) ability is unrivaled, sometimes seemingly able to "outdrive" what the car is capable of. He hardly makes any mistakes in the race and is literally the god in wet conditions. He's currently the only Black driver on the F1 grid.
 
@@ -229,7 +229,7 @@ Nationality: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc
 
 Age: 31  
 
-Drives for: Mercedes  
+Drives for: [Mercedes](#mercedes)
 
 A typical Finnish character, he's a man of few words or emotions. Also a very decent driver that gets the job done, although not good enough nor consistent enough to challenge his GOAT teammate Hamilton for the whole year. Can pick up a few pole positions and race wins every season because of the dominant Mercedes car.
 
@@ -241,7 +241,7 @@ Nationality: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20
 
 Age: 23  
 
-Drives for: Red Bull Racing
+Drives for: [Red Bull Racing](#red-bull-racing)
 
 My favorite driver on the grid. Extremely fierce and talented. Widely considered to be the only driver that could challenge Hamilton if in equal machinery. At such a young age he already has 10 race wins under his belt, all while driving only the 2nd or 3rd best car. He used to be quite impetuous and had a lot of incidents before 2018 but these few years saw him become a much more mature driver, but no less quick and exciting.
 
@@ -255,7 +255,7 @@ Nationality: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88
 
 Age: 31
 
-Drives for: McLaren
+Drives for: [McLaren](#mclaren)
 
 *That smile. That damned smile.*
 
@@ -271,7 +271,7 @@ Nationality: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea
 
 Age: 23
 
-Drives for: Ferrari
+Drives for: [Ferrari](#ferrari)
 
 The young future star of Ferrari. About to enter his 4th year in F1, he is already showing the talent to be a Top-5 driver, with Championship-winning potential if given a good car. In 2020, he completely outperformed his Ferrari teammate, 4-time World Champion Sebastian Vettel. This may be part of the reason why Ferrari decided to part ways with Vettel and go with Leclerc for the long term future.
 
@@ -283,7 +283,7 @@ Nationality: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag
 
 Age: 33
 
-Drives for: Aston Martin
+Drives for: [Aston Martin](#aston-martin)
 
 4-time World Champion Sebastian Vettel is one of the most successful drivers in F1 history. He won all his 4 Championships with Red Bull from 2010 to 2013. However, his later tenure with Ferrari from 2015 to 2020 was sweet and sour, without championship success because of the Mercedes dominance. His form gradually declined in the last couple of seasons. He joined Aston Martin this season hoping for a fresh new challenge. He's a very methodical driver and pays much attention to the technical stuff, almost like an engineer.
 
@@ -297,7 +297,7 @@ Nationality: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag
 
 Age: 39
 
-Drives for: Alpine
+Drives for: [Alpine](#alpine)
 
 Veteran driver Alonso is back to F1 after a 2-year hiatus. Previously he won 2 Championships with Renault (the current Alpine team) in 2005 and 2006. He also drove for Ferrari and McLaren later in his career. He is a very talented driver and considered one of the best in F1 history. At his peak during the 2010s he was able to rival Hamilton (they used to be teammates at McLaren).
 
@@ -309,7 +309,7 @@ Nationality: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc
 
 Age: 31
 
-Drives for: Red Bull Racing
+Drives for: [Red Bull Racing](#red-bull-racing)
 
 Sergio "Checo" Perez is a very underrated driver. He is known for his great consistency and ability to take care of the tyres. He has been in midfield teams for the entirety of his 10-year F1 career, but was able to score 10 podiums and 1 miraculous race win (['20 Sakhir GP](https://www.youtube.com/watch?v=H0zwR2drgV4)), which tells you how good he is. After being dropped by his former team Racing Point (the current Aston Martin) when they signed Sebastian Vettel, he was at risk of losing an F1 drive before Red Bull signed him to partner Verstappen for 2021. Fans are all really happy for him since this is an opportunity he thoroughly deserves.
 
@@ -321,7 +321,7 @@ Nationality: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc
 
 Age: 41
 
-Drives for: Alfa Romeo
+Drives for: [Alfa Romeo](#alfa-romeo)
 
 Kimi is currently the oldest driver in F1 and also the most experienced. Nicknamed "the Iceman", he's even more of the reserved, emotionless Finnish character than his fellow countryman Bottas. He is a living walking meme and a legend, simply because he just loves to drive... and [get drunk](https://www.youtube.com/watch?v=gXFxnVeAOVU)... and [enjoy himself](https://www.youtube.com/watch?v=ZMzeluIxblY). All the social media, interviews and PR stuff don't interest him [even the tiniest bit](https://www.youtube.com/watch?v=QjdYTzlfms0). Driving in F1 is [more like a hobby for him](https://www.youtube.com/watch?v=cvQ1J3gCPOg).
 
@@ -335,7 +335,7 @@ Nationality: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag
 
 Age: 21
 
-Drives for: McLaren
+Drives for: [McLaren](#mclaren)
 
 Young Lando Norris is another rising talent in the sport. Entering his 3rd year in F1, he's had some pretty decent results with McLaren, highlighted by a sensational podium finish at the ['20 Austrian GP](https://www.youtube.com/watch?v=XgXo0509S28). He's really quick but his consistency can still be improved.
 
@@ -349,7 +349,7 @@ Nationality: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag
 
 Age: 23
 
-Drives for: Williams
+Drives for: [Williams](#williams)
 
 Russell is an important character because he is the top prospect in the Mercedes driver development program and is considered to have World-Champion-level talent.  He will very likely take Lewis Hamilton's seat when Hamilton decides to eventually retire or switch teams. Currently driving for backmarker team Williams, results are obviously hard to come by. However, at the ['20 Sakhir GP](https://www.youtube.com/watch?v=eglCFzxWg6U) he substituted for COVID-positive Hamilton  at Mercedes and drove an absolutely flawless race, but was robbed of a sensational victory because of Mercedes' rare strategic blunder. He is a very lovable and funny character, often streaming on Twitch with Norris and Leclerc.
 
@@ -360,9 +360,9 @@ Nationality: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag
 
 Age: 25
 
-Drives for: AlphaTauri
+Drives for: [AlphaTauri](#alphatauri)
 
-Promoted to Red Bull in 2019, but got demoted back to Toro Rosso/AlphaTauri because of poor performance. However, he recovered his form at Toro Rosso/AlphaTauri and scored 2 podiums including a miracle [race win](https://www.youtube.com/watch?v=TB5yhZdF8SI).
+Promoted to Red Bull in 2019, but got demoted back to Toro Rosso/AlphaTauri because of poor performance. However, he recovered his form and confidence at Toro Rosso/AlphaTauri and scored 2 podiums including a [miraculous race win](https://www.youtube.com/watch?v=TB5yhZdF8SI).
 
 
 ### Others
@@ -375,8 +375,8 @@ Promoted to Red Bull in 2019, but got demoted back to Toro Rosso/AlphaTauri beca
 | <img src="./pics/tsunoda.jpg" width="250px">Yuki Tsunoda (#22) | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png" />Japanese | AlphaTauri   | <div style="width:500px">A highly regarded rookie from Japan. Raced in Formula 2 in 2020. Finished 3rd in F2 driver's championship.</div> |
 | <img src="./pics/giovinazzi.jpg" width="250px">Antonio Giovinazzi (#99) | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png" />  Italian | Alfa Romeo   | <div style="width:500px">Entering 3rd season in F1, no standout performance that I can remember.</div> |
 | <img src="./pics/schumacher.jpg" width="250px">Mick Schumacher (#47) | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png" />German | Haas         | <div style="width:500px">Son of the great Michael Schumacher. Raced and won the driver's championship in Formula 2 in 2020.</div> |
-| <img src="./pics/mazepin.jpg" width="250px">Nikita Mazepin (#9) | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png" />Russian | Haas         | <div style="width:500px">Simply put, he's quite a d*ckhead. Doesn't drive very well either.</div> |
-| <img src="./pics/latifi.jpg" width="250px">Nicholas Latifi (#99) | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png" />Canadian | Williams     | <div style="width:500px">Not a very good driver, was constantly beaten by more talented teammate George Russell.</div> |
+| <img src="./pics/mazepin.jpg" width="250px">Nikita Mazepin (#9) | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png" />Russian | Haas         | <div style="width:500px">Not only a below average driver in F1, but also a d*ckhead.</div> |
+| <img src="./pics/latifi.jpg" width="250px">Nicholas Latifi (#99) | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png" />Canadian | Williams     | <div style="width:500px">Not very good, was constantly beaten by more talented teammate George Russell.</div> |
 
 ### How to Distinguish Drivers in the Same Team
 
