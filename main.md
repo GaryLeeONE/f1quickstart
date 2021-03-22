@@ -441,9 +441,9 @@ You can set up the wing angles to be steeper to increase downforce at the front 
 
 ### Race Strategy Basics
 
-- Undercut  
+- **Undercut**  
   Imagine you are stuck behind your rival and couldn't overtake him. You decide to pit **earlier** than your rival, come out with a fresh set of tyres, do a blisteringly fast lap while your rival is struggling on older tyres, and when he eventually does a pitstop you are already in front of him. So you swapped places with him without an on-track overtake.
-- Overcut  
+- **Overcut**  
   Basically the reverse of undercut. You're stuck behind your rival and couldn't overtake him. You decide to pit **later** than your rival. Your rival does his pitstop but couldn't get the new tyres to work immediately, but you managed to squeeze out the final bits of performance on your used set of tyres, so when you eventually complete your pitstop, the lap time differences allowed you to get ahead of your rival without an on-track overtake.
 
 I believe undercuts are generally much more common, mainly because old tyres are generally supposed to be slower than new tyres, but there are lots of factors that affect tyre performance so it's not always the case.
@@ -454,9 +454,9 @@ Just a bit of recent news to let you know what everyone in the paddock is talkin
 
 - Arguably the biggest news: F1 will introduce a big overhaul of technical regulations for next season (2022). The cars will look [quite different](https://www.formula1.com/en/latest/article.fia-announce-new-f1-regulations-to-be-delayed-until-2022.1lwtaLmpNcQd0z9SnMEyK8.html). This is mainly to close the performance gaps between the teams and improve the quality of racing. Additionally,
 - In the 2021 Season, F1 will trial what's called "sprint qualifying" for three GPs this year. Basically, they want to try out a 1/3 race (100km) to replace traditional qualifying [as previously described](#qualifying).
-- Honda will quit F1 after the 2021 season. Red Bull has acquired their engine business to form Red Bull Powertrain, so they can technically be considered as a works team.
+- Honda will quit F1 after the 2021 season. Red Bull has acquired their engine business to form Red Bull Powertrain, so they can technically be considered as a works team. -->
 
-## More F1-related Content -->
+## More F1-related Content
 
 - Obviously, [r/formula1](https://www.reddit.com/r/formula1/). (Also maybe, [r/formuladank](https://www.reddit.com/r/formuladank/))
 - The Netflix show [Drive to Survive](https://www.netflix.com/title/80204890) has attracted a large number of new fans from the US recently. It's really well made, in fact the only reason I subscribe to Netflix for 1 month every year. There's quite a lot of drama, although also some forced and manufactured drama. It covers many more interesting characters and stories in the paddock than what I can include in this guide. All in all a very good show. Season 3 premieres on March 19.
