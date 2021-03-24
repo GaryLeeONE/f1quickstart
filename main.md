@@ -30,7 +30,9 @@ F1 is sanctioned by the [Fédération Internationale de l'Automobile](https://en
 
 The typical schedule for recent years consists of 21~23 race events, called "Grand Prix". The Grands Prix usually run every two weeks, but there are some back-to-back race weeks, as well as a month-long summer break in August. These event happen across the world in 20+ countries in Europe, the Americas, Asia and Oceania.
 
-Currently 10 teams participate in the Championship, each team with 2 drivers. Teams are also called *constructors* because they design and construct their own cars each year.
+Currently 10 teams participate in the Championship, each team with 2 drivers. The 20 drivers are from 13 different countries around the world, truly a global sport and a global community.
+
+Teams are also called *constructors* because they design and construct their own cars each year.
 
 Every Grand Prix happens from Friday to Sunday of the race week. The sessions are:
 
@@ -40,9 +42,9 @@ Every Grand Prix happens from Friday to Sunday of the race week. The sessions ar
 
 ### Free Practice Sessions
 
-The 3 Practice sessions have very little effect on the race results (unless, say, someone crashed the car late in FP3 and the mechanics couldn't get the car repaired for Qualifying). Teams fiddle with the setup of the car, such as wing and suspension angles, gear ratios and stuff, but these are of course confidential.
+The 3 Practice sessions are for drivers to, you know, practice. They are also for the teams to fiddle with the setup of the car to maximize performance. No championship points are awarded during practice sessions.
 
-I hardly ever watch practice sessions live. I simply check the timesheets after each session.
+I hardly ever watch practice sessions live. I usually only check the timesheets after each session.
 
 ### Qualifying
 
@@ -60,7 +62,7 @@ The drivers have multiple shots of doing so in each of these three smaller secti
 
 The Race is, of course, the glamorous main event of every race weekend.
 
-The race runs for a set number of laps (different for each circuit) but the total race distance for each race is always a little bit over 300km (186 mi) with one exception: the Monaco Grand Prix. The races generally take around 75 to 90 minutes to complete, barring any severe incidents causing stoppages.
+The race runs for a set number of laps (different for each circuit) but the total race distance for each race is always a little bit over 300 km or 180 miles (with one exception: the Monaco GP). The races generally take around 90 minutes to complete, barring any severe incidents causing stoppages.
 
 Championship points are awarded to the drivers and teams each race based on race results:
 
@@ -70,16 +72,17 @@ Championship points are awarded to the drivers and teams each race based on race
 
 Also, the driver who does the **fastest lap in the race** will be awarded 1 extra point, but only if he finishes in the top 10.
 
-The **Driver's World Champion** is whoever scores the most points over the season. Each team's points are the sum of the points of their drivers. The **Constructor's World Champion** is whichever team that scores the most points. That's pretty much it, no playoffs or any kind of all-star events like in North American sports.
+The **Driver's World Champion** is whoever scores the most points over the season. Each team's points are the sum of the points of their drivers. The **Constructor's World Champion** is whichever team that scores the most points.
+
+That's pretty much how the championship is structured. There are no postseason, playoffs or all-star events like in North American sports.
 
 ### Side Notes
 
-* Pole position, race win, and podium finish (top-3) are all very noteworthy achievements in a driver's F1 career.
-* The grid positions may be changed after qualifying. If a driver or team violated the sporting regulations, such as blocking other drivers on the track, changing a car part that they're not allowed to change, etc., they may be penalized in the form of dropping places on the starting grid. Similarly, drivers can get penalized during the race if they caused a collision, cut corners, forced other drivers off track, etc. The penalties include adding a few seconds to your race time, forcing you to drive through the pitlane (which has a speed limit), or even disqualification.
-* All drivers have to do one mandatory pitstop during the race. F1 bans refueling during the race, so pitstops are pretty much only used to change tyres or front wings (if the wing is broken). A typical F1 pitstop nowadays takes only 2.5 seconds. Anything more than 3 to 4 seconds is pretty bad. The best pit crews are sometimes able to do sub-2 second pitstops.
-* When incidents happen during the race, say there's been a crash and there's debris on track or a broken barrier, the FIA will deploy the Safety Car which all cars must follow and bunch up behind. No overtakes are allowed and all cars drive at a much lower speed than normal race speeds, then the track workers (called "marshals") can have a safe gap to clean up the mess. This year's Safety Car duties will be shared between two absolutely stunning vehicles: the Mercedes AMG GT R, and (perhaps your favorite) the Aston Martin Vantage.  
-  <img src="./pics/safetycar1.jpg" alt="Mercedes AMG GT R Safety Car" width="40%">
-  <img src="./pics/safetycar2.jpg" alt="Aston Martin Vantage"  width="40%">
+* Pole position, race win, and podium finish (top-3) are all very noteworthy achievements in a driver's F1 career.<!-- * The grid positions may be changed after qualifying. If a driver or team violated the sporting regulations, such as blocking other drivers on the track, changing a car part that they're not allowed to change, etc., they may be penalized in the form of dropping places on the starting grid. Similarly, drivers can get penalized during the race if they caused a collision, cut corners, forced other drivers off track, etc. The penalties include adding a few seconds to your race time, forcing you to drive through the pitlane (which has a speed limit), or even disqualification. -->
+* All drivers have to do one mandatory pitstop during the race. F1 bans refueling during the race, so pitstops are pretty much only used to change tyres, and/or change the front wing if there's significant damage to it. Teams use the word "box" to tell the drivers to come in for a pitstop.
+* When incidents happen during the race, leaving debris on track, the FIA will deploy the Safety Car (American motorsports call the Pace Car) which all cars must follow and bunch up behind. No overtakes are allowed and everyone drives at a much lower speed than normal racing speeds. The track workers (called "marshals") can then have a safe gap to clean up the mess. This year's Safety Car duties will be shared between two very stunning vehicles: the Mercedes-AMG GT R and the Aston Martin Vantage.  
+  <img src="./pics/safetycar1.jpg" alt="Mercedes-AMG GT R Safety Car" width="40%">
+  <img src="./pics/safetycar2.jpg" alt="Aston Martin Vantage Safety Car"  width="40%">
 
 ## The Teams
 
@@ -97,7 +100,7 @@ Drivers for 2021: [Lewis Hamilton (#44)](#lewis-hamilton-44), [Valtteri Bottas (
 
 The all-conquering, dominant Mercedes team has been the team to beat for the past few years. They are double World Champions (Constructor and Driver) 7 seasons in a row (2014-2020), and are still favorites coming into the 2021 season. They have a superb team that developed the best power units and fastest cars of this era. They have Lewis Hamilton, one of the best drivers in F1 history, to drive for them. It's *almost* like they are unbeatable, since they hardly make any mistakes during the race. However, in the past couple of seasons, a trend seems to be developing that when they actually do make mistakes, they make huge ones, which produced several truly thrilling and memorable races (['19 German GP](https://www.youtube.com/watch?v=RYHQmBULhLc), ['20 Italian GP](https://www.youtube.com/watch?v=TB5yhZdF8SI), ['20 Sakhir GP](https://www.youtube.com/watch?v=H0zwR2drgV4)).
 
-Because of their dominance (and maybe also their black livery) they are often seen as the villains and antagonists that everyone wants to beat.
+Because of their dominance (and maybe also their black livery) they are often seen as the Darth-Vader-esque villains that everyone wants to beat.
 
 #### Ferrari
 
@@ -107,9 +110,11 @@ Drivers for 2021: [Charles Leclerc (#16)](#charles-leclerc-16), Carlos Sainz Jr.
 
 2020 Constructor's Standing: 6th
 
-The famous red car. Ferrari is the team with the longest history in F1, and also the most success. It's often said that other teams such as Mercedes participate in F1 to help advertise and sell their road cars, but Ferrari sells road cars to fund their participation in F1. Such is their dedication to the sport over the many decades. However, for the past dozen years they have not had Championship success. They won their last Driver's and Constructor's Champion all the way back in 2007. They were usually able to stay Top-3 in the Constructor's standings, and were even able to challenge Mercedes from 2017 to 2019, but a series of driver errors and strategic mistakes during the race sank their championship hopes. Fans joke that it's all part of the "Ferrari master plan".
+The famous red car. Ferrari is the team with the longest history in F1, and also the most success. It's often said that other teams such as Mercedes participate in F1 to help advertise and sell their road cars, but Ferrari sells road cars to fund their participation in F1. Such is their dedication to the sport over the many decades.
 
-2020 Season wasn't kind to them as their car performance dropped significantly, mostly because they broke regulations with their power unit and got caught. It's difficult to see them return to Top-3 in 2021, but their fans (called the "Tifosi") are still extremely passionate as always.
+For the past dozen years however they haven't had Championship success. They won their last Driver's and Constructor's Champion all the way back in 2007. They were usually able to stay Top-3 in the Constructor's standings, and were even able to challenge Mercedes from 2017 to 2019, but a series of driver errors and strategic mistakes during the race sank their championship hopes.
+
+2020 Season wasn't kind to them as their car performance dropped significantly, mostly because they might have broken the regulations with their power unit and got caught. It's difficult to see them return to Top-3 in the standings in 2021.
 
 #### Red Bull Racing
 
@@ -119,7 +124,9 @@ Drivers for 2021: [Max Verstappen (#33)](#max-verstappen-33), [Sergio Perez (#11
 
 2020 Constructor's Standing: 2nd
 
-My favorite team in F1. They are the fun-loving cool guys and mavericks of the F1 grid. Funded by a "fizzy drinks" company, not a lot of people thought they would succeed when they joined F1 in 2005, but they did, winning 4 consecutive double World Champions from 2010 to 2013. Like Ferrari, they were able to stay competitive over the years. They were unable to challenge Mercedes recently, mostly because of weaker power units, which is not their fault because they did not develop the PUs (more on that [later](#power-unit)). Even with a weaker car, they are able to grab race wins from Mercedes or Ferrari because of their excellent execution during the race. They also have a very good young driver's development program which produced multiple F1 superstars currently on the grid (Verstappen, Vettel, Ricciardo).
+My favorite team in F1. They are the fun-loving cool guys and mavericks of the F1 grid. Funded by a "fizzy drinks" company, not a lot of people thought they would succeed when they joined F1 in 2005, but they did, winning 4 consecutive double World Champions from 2010 to 2013. Like Ferrari, they were able to stay competitive over the years.
+
+They were unable to challenge Mercedes recently, mostly because of weaker power units, which is not their fault because they did not develop the PUs (more on that [later](#power-unit)). Even with a weaker car, they are able to grab race wins from Mercedes or Ferrari because of their excellent execution during the race. They also have a very good young driver's development program which produced multiple star drivers currently on the grid (Verstappen, Vettel, Ricciardo).
 
 ### The Midfield
 
@@ -131,7 +138,7 @@ Drivers for 2021: [Daniel Ricciardo (#3)](#daniel-ricciardo-3), [Lando Norris (#
 
 2020 Constructor's Standings: 3rd
 
-McLaren is also one of the more historical teams in F1. Senna, Lewis Hamilton and many other Championship-winning drivers used to drive for them. They've had a few really tough years around 2015-2018, but thanks to a major shake up in the team and driver changes, they recovered their form in the past two seasons and should continue to improve this year. They currently have arguably the most popular driver line up in Ricciardo and Norris. Both drivers are very funny and lovable, and able to get the job done on track. I consider McLaren my second favorite team and always love to see them succeed.
+McLaren is also one of the more historical teams in F1. Ayrton Senna, Lewis Hamilton and many other Championship-winning drivers used to drive for them. They've had a few really tough years around 2015-2018, but thanks to a major shake up in their team organization and driver changes, they recovered their form in the past two seasons and should continue to improve this year. They currently have an extremely popular driver pairing of Ricciardo and Norris. I consider McLaren my second favorite team and always love to see them do well.
 
 #### Aston Martin
 
@@ -433,11 +440,11 @@ F1 introduced the DRS to mitigate this loss of downforce and to somehow "make up
 
 ### Understeer and Oversteer
 
-Understeer is when the car doesn't turn into corners very well and runs wide. This is usually associated with the lack of front downforce.
+Understeer is when the car doesn't turn into corners very well and runs wide. This is associated with the lack of front grip.
 
-Oversteer is when the car turns too much into a corner and the back end becomes unstable or even swings around. This is usually associated with the lack of rear downforce.
+Oversteer is when the car turns too much into a corner and the back end becomes unstable or even swings around. This is usually associated with the lack of rear grip.
 
-You can set up the wing angles to be steeper to increase downforce at the front or at the back, but then it sacrifices speed on the straights, because a steeper wing angle apparently blocks airflow and creates drag.
+A team can set up the wing angles to be steeper to increase downforce either at the front or the back to improve grip, but then it sacrifices speed on the straights, because a steeper wing angle apparently blocks airflow and creates drag. A team may also try to tweak the suspension geometry to adjust the contact patch of the tyres to the ground, but it also creates a similar trade-off situation like the wing angles.
 
 ### Race Strategy Basics
 
@@ -446,7 +453,7 @@ You can set up the wing angles to be steeper to increase downforce at the front 
 - **Overcut**  
   Basically the reverse of undercut. You're stuck behind your rival and couldn't overtake him. You decide to pit **later** than your rival. Your rival does his pitstop but couldn't get the new tyres to work immediately, but you managed to squeeze out the final bits of performance on your used set of tyres, so when you eventually complete your pitstop, the lap time differences allowed you to get ahead of your rival without an on-track overtake.
 
-I believe undercuts are generally much more common, mainly because old tyres are generally supposed to be slower than new tyres, but there are lots of factors that affect tyre performance so it's not always the case.
+I believe undercuts are generally much more common, mainly because old tyres are usually supposed to be slower than new tyres, but there are lots of factors that affect tyre performance so it's not always the case.
 
 <!-- ## News in the Paddock
 
@@ -458,9 +465,8 @@ Just a bit of recent news to let you know what everyone in the paddock is talkin
 
 ## More F1-related Content
 
-- Obviously, [r/formula1](https://www.reddit.com/r/formula1/). (Also maybe, [r/formuladank](https://www.reddit.com/r/formuladank/))
-- The Netflix show [Drive to Survive](https://www.netflix.com/title/80204890) has attracted a large number of new fans from the US recently. It's really well made, in fact the only reason I subscribe to Netflix for 1 month every year. There's quite a lot of drama, although also some forced and manufactured drama. It covers many more interesting characters and stories in the paddock than what I can include in this guide. All in all a very good show. Season 3 premieres on March 19.
+- Obviously, [r/formula1](https://www.reddit.com/r/formula1/). (Also maybe, [r/formuladank](https://www.reddit.com/r/formuladank/))<!-- - The Netflix show [Drive to Survive](https://www.netflix.com/title/80204890) has attracted a large number of new fans from the US recently. It's really well made, in fact the only reason I subscribe to Netflix for 1 month every year. There's quite a lot of drama, although also some forced and manufactured drama. It covers many more interesting characters and stories in the paddock than what I can include in this guide. All in all a very good show. Season 3 premieres on March 19. -->
 - The official [F1 YouTube Channel](https://www.youtube.com/user/Formula1) is awesome. You got the multi-million dollar production quality, and also the interesting content that fans want to see.
 - YouTuber [Chain Bear](https://www.youtube.com/user/chainbearf1) has great videos explaining how everything works in F1, including the technical stuff, race strategy, etc. Love it.
-- For all sorts of funny hijinks, go to [Out of Context F1](https://www.youtube.com/channel/UCeL5SSTtkr7xEePMzqHaqZA).
 - Some pretty reliable websites and media outlets: [Autosport.com](https://www.autosport.com/), [The Race](https://the-race.com/), [RaceFans.net](https://www.racefans.net/), [Motorsport.com](https://www.motorsport.com/), to name a few. Some articles have paywalls.
+- Finally, for all sorts of funny hijinks, go to [Out of Context F1](https://www.youtube.com/channel/UCeL5SSTtkr7xEePMzqHaqZA).
