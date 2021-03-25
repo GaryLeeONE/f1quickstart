@@ -116,7 +116,7 @@ Understeer is when the car doesn't turn into corners very well and runs wide. Th
 
 Oversteer is when the car turns too much into a corner and the back end becomes unstable or even swings around. This is usually associated with the lack of rear grip.
 
-A team can set up the wing angles to be steeper to increase downforce either at the front or the back to improve grip, but then it sacrifices speed on the straights, because a steeper wing angle apparently blocks airflow and creates drag. A team may also try to tweak the suspension geometry to adjust the contact patch of the tyres to the ground, but it also creates a similar trade-off situation like the wing angles.
+A team can set up the wing angles to be steeper to increase downforce either at the front or the back to improve grip, but then it sacrifices speed on the straights, because a steeper wing angle apparently blocks airflow and creates drag. A team may also try to tweak the suspension geometry to adjust the contact patch of the tyres to the ground, but it also creates a similar trade-off situation like the wing angles: on other parts of the track the contact patch might become worse after the adjustments.
 
 ## Race Strategy Basics
 
