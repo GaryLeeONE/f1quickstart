@@ -40,7 +40,7 @@ Drivers for 2021: [Max Verstappen (#33)](#max-verstappen-33), [Sergio Perez (#11
 
 My favorite team in F1. They are the fun-loving cool guys and mavericks of the F1 grid. Funded by a "fizzy drinks" company, not a lot of people thought they would succeed when they joined F1 in 2005, but they did, winning 4 consecutive double World Champions from 2010 to 2013. Like Ferrari, they were able to stay competitive over the years.
 
-They were unable to challenge Mercedes recently, mostly because of weaker power units, which is not their fault because they did not develop the PUs (more on that [later](#power-unit)). Even with a weaker car, they are able to grab race wins from Mercedes or Ferrari because of their excellent execution during the race. They also have a very good young driver's development program which produced multiple star drivers currently on the grid (Verstappen, Vettel, Ricciardo).
+They were unable to challenge Mercedes recently, mostly because of weaker power units, which is not their fault because they did not develop the PUs (more on that [later](technicals.md#power-unit)). Even with a weaker car, they are able to grab race wins from Mercedes or Ferrari because of their excellent execution during the race. They also have a very good young driver's development program which produced multiple star drivers currently on the grid (Verstappen, Vettel, Ricciardo).
 
 ## The Midfield
 
