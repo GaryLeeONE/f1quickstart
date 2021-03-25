@@ -33,7 +33,7 @@ A general ranking of engine performances: Mercedes > Ferrari = Renault > Honda. 
 Tyres are critical because they are the only parts of the car to have direct contact with the track. While driving the cars:
 
 * You always want the tyres to have as much surface area gripping on the track to maximize acceleration, braking and cornering performances. The tyres should also have a smooth, round surface so it contacts the track at all times without interruption. This is even considering that the track is not flat. F1 tracks have a lot of elevation changes, so it's difficult to have the tyres work well around the entire lap.
-* You want to keep the tyres in a good "working window". This means that the tyres need to be operating at suitable temperatures for the rubber to be grippy. However, it requires constant fine-tuning because of different track surface abrasion characteristics, air and track temperature, among many other factors.
+* You want to keep the tyres in a good "working window". This means that the tyres need to be operating at suitable temperatures for the rubber to be grippy and not slippery. However, it requires constant fine-tuning because of different track surface abrasion characteristics, air and track temperature, among many other factors. Drivers constantly adjust their driving to maintain the temperature in the tyres.
 * You want to keep track of the sets of tyres that you have. Each driver is allocated a limited number of tyre sets for every race weekend, so you must carefully manage and protect the tyres to gain an upper hand in the race.
 
 Pirelli is the official tyre provider of F1. They produce 5 different types of dry tyres, called "slicks", and 2 different types of wet-condition tyres.
@@ -50,11 +50,13 @@ For the same race weekend, **Hard tyres = white sidewalls, Medium = yellow sidew
 
 <img src="./pics/slicks.jpg" width="60%">
 
-An important rule about slick tyres is that if a race is dry, each driver **must use at least 2 of the 3 dry compounds during the race**. This essentially means you must do at least one pitstop, and forces the teams to think about which compounds to use. A very simple example, teams may choose to do a 2-stop race using the soft and medium tyres, or a 1-stop race using the medium and hard tyres. Pitstops cost time and track position so they'll have to make it up by using softer tyres.
+An important rule about slick tyres is that if a race is dry, each driver **must use at least 2 of the 3 dry compounds during the race**. This essentially means you must do at least one pitstop, and forces the teams to think about which compounds to use.
+
+A very simple example, teams may choose to do a 2-stop race using the soft and medium tyres, or a 1-stop race using the medium and hard tyres. Pitstops cost time and track position so they'll have to make it up by using softer tyres.
 
 ### Wets
 
-There are two types of wet-condition tyres, the Intermediates, and the Full-Wets. You can notice they are different from the slick tyres because they have grooves on them. The grooves are used to evacuate water.
+There are two types of wet-condition tyres, the Intermediates, and the Full-Wets. You can notice they are different from the slick tyres because they have grooves on them. The grooves are used to evacuate water. You can imagine without the grooves, the tyres will not stick to the wet track and starts aquaplaning.
 
 Intermediates have shallow, symmetrical grooves, they are typically used on a damp track with no standing water. Full-Wets have deep and non-symmetrical grooves, they are only used in heavy rain conditions.
 
@@ -63,11 +65,30 @@ Intermediates have shallow, symmetrical grooves, they are typically used on a da
 <img src="./pics/wets.jpg" width="60%">
 
 
-## Bodywork
+## Wings/Bodywork
 
-DRS is a moveable flap in the rear wing that can be triggered to open on specific parts of the track (called DRS zones, usually placed on long straights, out of cornering sections). If the gap between two cars is less than 1 second when approaching the DRS zone, the following car is allowed to use DRS.
+<img src="./pics/wings.jpg" width="60%">
 
-## The "Halo"
+One of the most noticeable features of F1 cars are their substantial front and rear wings, as well as all kinds of little bits and pieces of aero sticking out of every part of the car. Almost every part of the bodywork is hand-made with carbon fiber. This is usually where teams spend tens of millions of dollars every single year to try to eke out a few tenths of a second of performance per lap.
+
+Aerodynamics are extremely sensitive to the slightest of changes in temperature and airflow. Every single piece of bodywork serves a purpose. I know that teams go to such extremes that they have to take the _wobbling of the tyre rubber_ into account when designing the wings and bodywork. Just incredibly intricate and complex stuff.
+
+The main purposes of the wings and bodywork are 1. to increase downforce, and 2. to decrease drag. I added a bit of explanation about these [later](#more-technical-concepts).
+
+There is one important concept worth mentioning, which is the **Drag Reduction System (DRS)**. DRS is a moveable flap in the rear wing that can be triggered to open on specific parts of the track (called DRS zones, usually placed on long straights, out of cornering sections). If the gap between two cars is less than 1 second when approaching a DRS zone, the following car is allowed to use DRS. I explained a bit more about DRS [here](#more-on-drs).
+
+<img src="./pics/drs_close.jpg" width="45%"><img src="./pics/drs_open.jpg" width="45%">
+
+## The Halo
+
+<img src="./pics/halo.jpg" width="60%">
+
+The halo is a safety device introduced in 2018 to protect the driver's head and neck area from possible impact. As you can see from the picture, it's the Y-shaped bar that's surrounding the driver's head. It's made of titanium and weighs 20 lbs. The halo is the strongest piece of structure on the car, and it can "take the weight of a London double-decker bus sitting on top", to quote Mercedes technical director James Allison.
+
+It was controversial at first because it messed with the overall look of the car and fans are not happy about it. However, over just the past 3 years it has already played important roles in preventing serious head injuries to drivers or even death --- You might have seen this horrific crash in the news, when French driver Romain Grosjean went off the track and ploughed _through_ the barrier, causing the car to snap in half and created a huge inferno. The halo served as a wedge to split the barriers. Without the halo, it would be Grosjean's head making contact and he might not survive. Fortunately he came out of the incident with only burns on his hands and feet.
+
+<img src="./pics/grosjean_crash1.jpg" width="45%">
+<img src="./pics/grosjean_crash2.jpg" width="45%">
 
 # More Technical Concepts
 
