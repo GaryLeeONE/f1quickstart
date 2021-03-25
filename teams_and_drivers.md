@@ -62,7 +62,7 @@ Drivers for 2021: [Sebastian Vettel (#5)](#sebastian-vettel-5), Lance Stroll (#1
 
 2020 Constructor's Standings: 4th
 
-The newly re-branded Aston Martin team gone through several ownership changes recently. Previously called Force India (owned by an Indian businessman), then Racing Point for the past couple of seasons after Canadian billionaire Lawrence Stroll took over. Lawrence Stroll then became a major shareholder of the Aston Martin company and decided to turn the Racing Point team into this Aston Martin team.
+The newly re-branded Aston Martin team went through several ownership changes recently. Previously called Force India (owned by an Indian businessman), then Racing Point for the past couple of seasons after Canadian billionaire Lawrence Stroll took over. Lawrence Stroll then became a major shareholder of the Aston Martin company and decided to turn the Racing Point team into this Aston Martin team.
 
 They have mostly been a decent midfield team, occasionally able to pick up a few podiums. In 2020 they suddenly became quite competitive, but people are quick to notice they borrowed or copied a lot of the design concepts from the 2019 championship-winning Mercedes, earning them a rather funny name of "Tracing Point". They brought in 4-time World Champion, veteran driver Sebastian Vettel for this season, competing alongside Lance Stroll who is the son of Lawrence Stroll. Technically Lance's billionaire dad bought him this F1 seat, but I think Lance is actually an okay driver and people are sometimes too harsh on him.
 
