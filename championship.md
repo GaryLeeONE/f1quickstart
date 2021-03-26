@@ -12,13 +12,13 @@ Teams are also called *constructors* because they design and construct their own
 
 Every Grand Prix happens from Friday to Sunday of the race week. The sessions are:
 
-- Free Practice 1 (FP1, 90 minutes long) and Free Practice 2 (FP2, 90 minutes long) on Friday
-- Free Practice 3 (FP3, 60 minutes long) and Qualifying on Saturday
+- Free Practice 1 (FP1) and Free Practice 2 (FP2) on Friday
+- Free Practice 3 (FP3) and Qualifying on Saturday
 - Race on Sunday
 
 ### Free Practice Sessions
 
-The 3 Practice sessions are for drivers to, you know, practice. They are also for the teams to fiddle with the setup of the car to maximize performance. No championship points are awarded during practice sessions.
+The 3 Practice sessions (60 minutes long each) are for drivers to, you know, practice. They are also for the teams to fiddle with the setup of the car to maximize performance. No championship points are awarded during practice sessions.
 
 I hardly ever watch practice sessions live. I usually only check the timesheets after each session.
 
